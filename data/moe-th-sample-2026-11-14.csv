@@ -1,0 +1,201 @@
+draw,doi,publisher,th_entry_name,th_entry_awards,tool_verdict,tool_label,hand_country,hand_basis,other_funders_short
+A001,10.1109/icmnwc63764.2024.10872167,IEEE,Ministry of Education,24JDSZ3126,FOREIGN,CN,CN,award,none
+A002,10.23919/iccas59377.2023.10317058,IEEE,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea
+A003,10.1016/j.jmrt.2023.02.162,Elsevier BV,Ministry of Education,,UNCLEAR,,SA,cofunder,King Abdulaziz Univ; Prince Sattam bin Abdulaziz Univ
+A004,10.1016/j.memsci.2013.02.005,Elsevier BV,Ministry of Education,,UNCLEAR,,MIXED,cofunder,Estonian ministry; NSTDA; European Commission; Thailand Research Fund
+A005,10.1111/coa.13597,Wiley,Ministry of Education,NRF-2019R1I1A3A01063629,FOREIGN,KR,KR,award,none (raw re-read)
+A006,10.1111/1365-2435.13636,Wiley,Ministry of Education,R-154-000-B18-114,FOREIGN,SG,SG,award,NSFC x3
+A007,10.1109/mosicom59118.2023.10458771,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,Research and Development
+A008,10.1109/iscas58744.2024.10558566,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A009,10.1016/s0968-0896(97)00143-0,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A010,10.1109/icsse58758.2023.10227167,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A011,10.1109/iceta67772.2025.11280064,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A012,10.1109/tsmc.2019.2930743,Institute of Electrical and Electronics Engineers (IEEE),Ministry of Education,NRF-2016R1A6A1A03013567,FOREIGN,KR,KR,award,NRF Basic Science Research Program; KEPCO
+A013,10.1109/iaeac59436.2024.10503855,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A014,10.1002/admi.202202486,Wiley,Ministry of Education,2020R1I1A1A01072161,FOREIGN,KR,KR,award,none
+A015,10.1002/jbm.b.34471,Wiley,Ministry of Education,,UNCLEAR,,UNCLEAR,none,National Research Foundation (country not named)
+A016,10.1093/femsle/fnaf116,Oxford University Press (OUP),Ministry of Education,RS-2023-00273372,FOREIGN,KR,KR,award,none
+A017,10.1093/jom/ufad029,Oxford University Press (OUP),Ministry of Education,,UNCLEAR,,TW,cofunder,NSTC x2; Natl Taipei Univ of Tech; Natl Chung Cheng Univ
+A018,10.1109/ccpqt60491.2023.00019,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,Research and Development
+A019,10.1093/nsr/nwac231,Oxford University Press (OUP),Ministry of Education,2020AC006,UNCLEAR,,CN,cofunder,NSFC x4; Guangdong NSF; Fundamental Research Funds for the Central Universities (raw re-read)
+A020,10.1016/j.optmat.2017.08.030,Elsevier BV,Ministry of Education,RCAMS-KKU-001-17,UNCLEAR,,SA,cofunder,Najran Univ; King Khalid Univ; CU Boulder
+A021,10.14202/vetworld.2021.764-768,Veterinary World,Ministry of Education,MRG6180091,HOME,,TH,award,none
+A022,10.1016/j.carbpol.2017.10.017,Elsevier BV,Ministry of Education,2017R1A6A3A11029462,FOREIGN,KR,KR,award,NRF Basic Science Research Program; BK21 plus; Yonsei
+A023,10.1109/epe54603.2022.9814105,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A024,10.1109/epe58302.2023.10149252,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none (also drawn as B025)
+A025,10.1016/j.apsusc.2018.11.100,Elsevier BV,Ministry of Education,107L9006,FOREIGN,TW,TW,award,MOST Taiwan x3; Academia Sinica
+A026,10.1109/icoin53446.2022.9687187,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,Ministry of Science and Technology (country not named)
+A027,10.1109/wcnc51071.2022.9771808,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC; Guangdong NSF
+A028,10.1016/0005-2787(67)90185-2,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,Merck
+A029,10.1109/iceta67772.2025.11280065,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A030,10.1109/icaiic57133.2023.10067099,IEEE,Ministry of Education,"2020R1F1A1071547,2021R1A6A1A03043144",FOREIGN,KR,KR,award,NRF
+A031,10.1109/fnwf63303.2024.11028708,IEEE,Ministry of Education (x2),,UNCLEAR,,UNCLEAR,none,none
+A032,10.1109/bigdata55660.2022.10020290,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A033,10.1109/nmitcon62075.2024.10698847,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A034,10.1016/0021-9673(92)85148-m,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A035,10.1109/istc57237.2023.10273511,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A036,10.23919/iccas59377.2023.10316958,IEEE,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea
+A037,10.1080/10298436.2017.1366762,Informa UK Limited,Ministry of Education,,UNCLEAR,,KR,cofunder,MOE and NRF Korea; MOLIT; KAIA (also drawn as B031)
+A038,10.1109/icoin63865.2025.10993149,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A039,10.1049/iet-pel.2017.0866,Institution of Engineering and Technology (IET),Ministry of Education,2017R1C1B5074256,FOREIGN,KR,KR,award,NRF Korea
+A040,10.1021/jo502540k,American Chemical Society (ACS),"Ministry of Education, Thailand",,HOME,,TH,name,National Research Council of Thailand
+A041,10.1109/tim.2023.3261916,Institute of Electrical and Electronics Engineers (IEEE),"Key Laboratory of Leather Chemistry and Engineering, Ministry of Education, Sichuan University, through the Opening Project",SCU2021D005,UNCLEAR,,CN,name,Sichuan NSF
+A042,10.1109/irmmw-thz50927.2022.9895822,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A043,10.1080/08874417.2022.2139781,Informa UK Limited,Key Projects on Philosophy and Social Science Research of the Ministry of Education,#21JZD056,FOREIGN,CN,CN,award,NSFC; Fundamental Research Funds for the Central Universities
+A044,10.1109/ictc49870.2020.9289384,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A045,10.1109/iccv51070.2023.01378,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC
+A046,10.1016/j.clay.2019.01.022,Elsevier BV,Ministry of Education,IRG5980007,HOME,,TH,award,CEIC; OHEC; Thailand Research Fund
+A047,10.1109/clusterworkshops65972.2025.11164209,IEEE,Ministry of Education,,UNCLEAR,,IN,cofunder,Tezpur Univ
+A048,10.1093/mnras/stae1007,Oxford University Press (OUP),Ministry of Education,,UNCLEAR,,IN,cofunder,DST India; SERB x3
+A049,10.1109/isesd56103.2022.9980695,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A050,10.1109/diagnostika55131.2022.9905224,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A051,10.1016/j.freeradbiomed.2010.12.024,Elsevier BV,Ministry of Education,"95A-C-P30,99A-C-B6",UNCLEAR,,TW,cofunder,National Science Council; Taipei City Dept of Health
+A052,10.1109/icaisc56366.2023.10085583,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A053,10.1002/aenm.202003058,Wiley,Ministry of Education,NRF-2019R1A2C2088047,FOREIGN,KR,KR,award,NRF Korea
+A054,10.1109/gcce56475.2022.10014235,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,Ministry of Science and Technology (country not named)
+A055,10.1016/j.phytol.2015.02.004,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,CEIC; OHEC
+A056,10.22916/jcpc.2021..36.29,Institute of Confucian Philosophy and Culture,Ministry of Education,,UNCLEAR,,KR,cofunder,Academy of Korean Studies; Korean journal
+A057,10.1109/gemccon57842.2023.10078214,IEEE,Ministry of Education,2021R1I1A3050649,FOREIGN,KR,KR,award,NRF Korea
+A058,10.1080/13548506.2025.2594761,Informa UK Limited,Ministry of Education in Taiwan,114L9A00303,FOREIGN,TW,TW,name+award,NTU Children and Family Research Center (also drawn as B082)
+A059,10.5934/kjhe.2025.34.3.411,Korean Association of Human Ecology,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea; Korean journal
+A060,10.1002/ps.7332,Wiley,Ministry of Education,191653,UNCLEAR,,UNCLEAR,none,none
+A061,10.1002/ps.6922,Wiley,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea; Rural Development Administration
+A062,10.23919/eumc58039.2023.10290699,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A063,10.1080/00036846.2026.2614493,Informa UK Limited,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea
+A064,10.1016/j.jnoncrysol.2008.05.074,Elsevier BV,Ministry of Education,"COST P17,OC08030,VZ 0021620834",UNCLEAR,,CZ,cofunder,Czech Academy of Sciences; VEGA
+A065,10.1109/aiea53260.2021.00067,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A066,10.1109/bigdata55660.2022.10020920,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A067,10.1080/15402002.2021.1879809,Informa UK Limited,Ministry of Education,NRF-2020R1I1A1A01072283,FOREIGN,KR,KR,award,NRF Korea
+A068,10.1109/vast50239.2020.00011,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC; Zhejiang NSF; Zhejiang Univ
+A069,10.1109/sips66314.2025.11261299,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A070,10.1109/gcwkshp64532.2024.11101539,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A071,10.1109/iccar52225.2021.9463472,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A072,10.1093/imrn/rnw333,Oxford University Press (OUP),Ministry of Education,26287002,UNCLEAR,,MIXED,cofunder,Research Grants Council Hong Kong; NSFC
+A073,10.1002/pola.70190,Wiley,Ministry of Education,114L9006,FOREIGN,TW,TW,award,NSTC (raw re-read; all authors NCKU Tainan)
+A074,10.1111/wej.12613,Wiley,Ministry of Education,,UNCLEAR,,MY,cofunder,Universiti Malaysia Sarawak
+A075,10.23919/iccas63016.2024.10773238,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A076,10.1002/admi.202200808,Wiley,Ministry of Education,,UNCLEAR,,DE,cofunder,DFG; ERDF; ESRF
+A077,10.1109/cloudsummit54781.2022.00024,IEEE,Ministry of Education,"2020R1A6A1A03046811,2021R1A2C2094943",FOREIGN,KR,KR,award,NRF Korea
+A078,10.1080/09276440.2022.2099519,Informa UK Limited,Ministry of Education,2016R1D1A1B01012620,FOREIGN,KR,KR,award,none
+A079,10.1016/j.apm.2020.06.038,Elsevier BV,Ministry of Education,107L4000,FOREIGN,TW,TW,award,none
+A080,10.1177/0271678x261444202,SAGE Publications,ministry of education,"RS-2023-00237665, RS-2024-00463129",FOREIGN,KR,KR,award,NRF Korea; KHIDI; Chungnam Natl Univ (raw re-read)
+A081,10.23919/epe21ecceeurope50061.2021.9570506,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A082,10.1002/cpe.5758,Wiley,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC; Fujian NSF; Fuzhou Univ
+A083,10.12813/kieae.2026.26.1.077,Korea Institute of Ecological Architecture and Environment,Ministry of Education,,UNCLEAR,,KR,cofunder,Ministry of Science and ICT; NRF Korea x2
+A084,10.12813/kieae.2025.25.1.005,Korea Institute of Ecological Architecture and Environment,Ministry of Education,,UNCLEAR,,KR,cofunder,MOLIT; NRF Korea
+A085,10.9724/kfcs.2017.33.5.488,Korean Society of Food and Cookery Science,Ministry of Education,2015R1D1A4A01019807,FOREIGN,KR,KR,award,NRF Korea
+A086,10.1109/epts67931.2025.11547397,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A087,10.1016/0040-4039(90)80181-k,Elsevier BV,Ministry of Education,,UNCLEAR,,JP,cofunder,JSPS
+A088,10.1016/j.snb.2018.08.136,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,OHEC; KMUTT; NECTEC
+A089,10.1016/0304-3940(95)12272-9,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A090,10.1109/icassp43922.2022.9747340,IEEE,Ministry of Education,,UNCLEAR,,MIXED,cofunder,NSFC; National Science Foundation
+A091,10.1109/ism55400.2022.00051,IEEE,Ministry of Education,,UNCLEAR,,TW,cofunder,Ministry of Science and Technology; Feng Chia Univ
+A092,10.1145/3757633,Association for Computing Machinery (ACM),Ministry of Education,24-1317-A0001-0,UNCLEAR,,SG,cofunder,National Univ of Singapore
+A093,10.1109/vr51125.2022.00054,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A094,10.1109/apmc57107.2023.10439724,IEEE,Ministry of Education,,UNCLEAR,,TW,cofunder,NSTC
+A095,10.1109/indin51400.2023.10218157,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A096,10.1109/lifetech52111.2021.9391911,IEEE,Ministry of Education,"NRF-2018R1A6A1A03025109,4199990113966",FOREIGN,KR,KR,award,NRF Basic Science Research Program; Ministry of Science and ICT
+A097,10.1109/icce50685.2021.9427761,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A098,10.1109/trustcom63139.2024.00341,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+A099,10.1002/app.46486,Wiley,Ministry of Education,,UNCLEAR,,US,cofunder,Univ of Maryland CERSI
+A100,10.1007/s12374-025-09459-7,Springer Science and Business Media LLC,Ministry of Education,RS-2020-NR049590,FOREIGN,KR,KR,award,none
+B001,10.1080/10901027.2025.2587278,Informa UK Limited,Ministry of Education,PED1100972,UNCLEAR,,UNCLEAR,none,none
+B002,10.1016/s0379-6779(97)80872-7,Elsevier BV,Ministry of Education,07640487,UNCLEAR,,UNCLEAR,none,none
+B003,10.1021/acsomega.7b00493,American Chemical Society (ACS),Ministry of Education,NA,UNCLEAR,,KR,cofunder,NRF Korea; KETEP
+B004,10.1109/icmt56556.2022.9997745,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B005,10.2174/1570178615666181022143627,Bentham Science Publishers Ltd.,Ministry of Education of Thailand,A01056681,HOME,,TH,name,none
+B006,10.1109/iecbes54088.2022.10079311,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B007,10.1109/epts67931.2025.11547730,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B008,10.1002/elan.201900200,Wiley,Ministry of Education,OESACLS201901,UNCLEAR,,UNCLEAR,none,none
+B009,10.1016/j.buildenv.2019.01.051,Elsevier BV,Ministry of Education,,UNCLEAR,,OM,cofunder,Sultan Qaboos Univ
+B010,10.1021/acs.est.6b05760,American Chemical Society (ACS),Ministry of Education,,UNCLEAR,,TW,cofunder,Academia Sinica; MOST Taiwan
+B011,10.1109/icton67126.2025.11125077,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B012,10.1109/smc53654.2022.9945214,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC; Hunan NSF for Distinguished Young Scholars
+B013,10.1109/icalt55010.2022.00098,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B014,10.1109/cscn60443.2023.10453184,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B015,10.1016/j.mssp.2017.06.043,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,OHEC; KMUTT; NECTEC
+B016,10.1002/pola.29449,Wiley,Ministry of Education,,UNCLEAR,,MIXED,cofunder,Army Research Office; Welch Foundation; NRF Korea; IBS Korea
+B017,10.1080/19411243.2025.2467257,Informa UK Limited,Ministry of Education,,UNCLEAR,,MY,cofunder,Economic Planning Unit Malaysia
+B018,10.1002/cphc.201800461,Wiley,Ministry of Education,NRF-2016R1D1A1B03932107,FOREIGN,KR,KR,award,none
+B019,10.1109/das69882.2026.11553316,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B020,10.23919/mikon60251.2024.10633997,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B021,10.1016/j.compstruct.2018.01.055,Elsevier BV,Ministry of Education,,UNCLEAR,,RU,cofunder,Ministry of Education and Science of the Russian Federation (split)
+B022,10.1109/icemi52946.2021.9679557,IEEE,Ministry of Education,201902059007,UNCLEAR,,CN,cofunder,Fundamental Research Funds for the Central Universities
+B023,10.1109/iceic64972.2025.10879611,IEEE,Ministry of Education,RS-2023-00242673,FOREIGN,KR,KR,award,NRF Korea (raw re-read; authors Dong-A Univ Busan)
+B024,10.1080/02678292.2022.2065373,Informa UK Limited,Ministry of Education,NRF-2019R1A2C1003862,FOREIGN,KR,KR,award,NRF Basic Science Research Program
+B025,10.1109/epe58302.2023.10149252,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none (also drawn as A024)
+B026,10.1109/gcwkshps56602.2022.10008481,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B027,10.1109/icdh60066.2023.00056,IEEE,Ministry of Education,,UNCLEAR,,IN,cofunder,IIT Kharagpur; SERB
+B028,10.16915/jkapesgw.2025.9.39.3.109,Korean Physical Education Association for Women,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea; Korean journal
+B029,10.1016/0009-2614(81)80125-x,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B030,10.1093/jpe/rty027,Oxford University Press (OUP),Ministry of Education,PYH2015-09,UNCLEAR,,CN,cofunder,NSFC x2; China Postdoctoral Science Foundation; Guangxi key lab
+B031,10.1080/10298436.2017.1366762,Informa UK Limited,Ministry of Education,,UNCLEAR,,KR,cofunder,MOE and NRF Korea; MOLIT; KAIA (also drawn as A037)
+B032,10.1016/j.bmcl.2014.04.105,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,Thailand Research Fund; CEIC; OHEC
+B033,10.1093/europace/eux227,Oxford University Press (OUP),Ministry of Education,,UNCLEAR,,CZ,cofunder,Czech Society of Cardiology; Ministry of Health of the Czech Republic
+B034,10.1016/j.bmcl.2014.12.043,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,OHEC; Thailand Research Fund x2
+B035,10.1109/isitia63062.2024.10667676,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B036,10.1016/j.neubiorev.2018.07.016,Elsevier BV,Ministry of Education (x2),"MOE2013-T2-2-054,MOE2017-T2-1-089",FOREIGN,SG,SG,award,A*STAR; Duke-NUS (raw re-read)
+B037,10.1111/2041-210x.13131,Wiley,Ministry of Education,R154-000-660-112,FOREIGN,SG,SG,award,none
+B038,10.1109/globecom52923.2024.10901575,IEEE,Ministry of Education,,UNCLEAR,,DE,cofunder,TU Dresden; Ministry of Economic Affairs
+B039,10.1002/smll.202002292,Wiley,Ministry of Education,NRF-2018R1A6A1A03024231,FOREIGN,KR,KR,award,National Research Foundation; NSF UAE; H2020
+B040,10.1093/femsle/fnae115,Oxford University Press (OUP),Ministry of Education,RS-2023-00273372,FOREIGN,KR,KR,award,NRF Korea
+B041,10.1109/cscwd61410.2024.10580637,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC
+B042,10.1155/2022/3930795,Wiley,"Ministry of Education, Thailand (x4)","2021B68,ZR202103040494,21YJCZH147,2020CX041",FOREIGN,CN,CN,award,Shandong NSF; Central South Univ (raw re-read; authors in China)
+B043,10.1109/igarss53475.2024.10641394,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B044,10.1039/d6ta04595b,Royal Society of Chemistry (RSC),Ministry of Education,2022R1A6A1A03063039,FOREIGN,KR,KR,award,Ministry of Trade Industry and Energy; Ministry of Science and ICT
+B045,10.1016/0921-4526(93)90398-p,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B046,10.1109/cait59945.2023.10468958,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC; State Grid Corporation of China
+B047,10.1109/iceta67772.2025.11280042,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B048,10.1109/icc59461.2026.11588023,IEEE,Ministry of Education,,UNCLEAR,,TW,cofunder,National Cheng Kung Univ; NSTC
+B049,10.1111/ijfs.13981,Oxford University Press (OUP),Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea
+B050,10.1109/wrcsara60131.2023.10261798,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B051,10.1111/odi.13537,Wiley,Ministry of Education (x2),"VEGA 1/,0802/20",FOREIGN,SK,SK,award,none
+B052,10.1109/ase51524.2021.9678546,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B053,10.23919/fusion59988.2024.10706377,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,Sichuan Univ; Fundamental Research Funds for the Central Universities
+B054,10.1109/icassp49660.2025.10888716,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B055,10.1080/1539445x.2017.1355815,Informa UK Limited,Ministry of Education,NRF-2015R1D1A1A01057279,FOREIGN,KR,KR,award,none
+B056,10.23919/aces-china66523.2025.11332767,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B057,10.1109/rsm52397.2021.9511581,IEEE,MOE,,UNCLEAR,,UNCLEAR,none,none
+B058,10.1109/ispa63168.2024.00272,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,NSFC
+B059,10.1111/jfpp.12887,Wiley,Ministry of Education,,UNCLEAR,,RS,cofunder,Serbian ministry project TR31014
+B060,10.1093/nsr/nwag307,Oxford University Press (OUP),Ministry of Education (x2),"SCRC2023ZZ03ZD,SCRC2025ZZ01ZD",UNCLEAR,,CN,cofunder,NSFC x2; Ministry of Education of China (other ID); Fundamental Research Funds for the Central Universities
+B061,10.1109/icmla61862.2024.00211,IEEE,Ministry of Education,2018R1A 6A1A 030 15496,FOREIGN,KR,KR,award,IITP Korea
+B062,10.1109/spawc60668.2024.10694659,IEEE,Ministry of Education,,UNCLEAR,,DE,cofunder,DFG
+B063,10.1002/bkcs.11397,Wiley,Ministry of Education,NRF-2017R1C1B5075766,FOREIGN,KR,KR,award,none
+B064,10.1109/spawc51304.2022.9834009,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B065,10.1002/tesq.611,Wiley,Ministry of Education,,UNCLEAR,,CL,cofunder,CONICYT; FONDECYT
+B066,10.1109/isocc59558.2023.10396096,IEEE,Ministry of Education (x2),,UNCLEAR,,KR,cofunder,IC Design Education Center; Samsung
+B067,10.1109/ipdpsw59300.2023.00134,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B068,10.15187/adr.2025.05.38.2.505,Korean Society of Design Science,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea; Korean journal
+B069,10.1002/pat.5355,Wiley,MOE,RUI/1001/PTEKIND8014119,UNCLEAR,,MY,award (hand),Universiti Sains Malaysia RUI grant code
+B070,10.1109/vtc2022-spring54318.2022.9860917,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B071,10.1016/j.snb.2017.11.151,Elsevier BV,Ministry of Education,2016R1A6A3A11931838,FOREIGN,KR,KR,award,Ministry of Science and ICT
+B072,10.1016/j.toxlet.2015.05.010,Elsevier BV,Ministry of Education,,UNCLEAR,,TH,cofunder,NSTDA; Thammasat Univ; Mahidol Univ
+B073,10.1002/bkcs.11853,Wiley,Ministry of Education,2018R1D1A1B07042776,FOREIGN,KR,KR,award,NRF Korea
+B074,10.1109/icmlcn59089.2024.10625190,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B075,10.1109/case49997.2022.9926511,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B076,10.1109/acait60137.2023.10528462,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B077,10.1016/j.cam.2007.08.022,Elsevier BV,Ministry of Education,207047,UNCLEAR,,UNCLEAR,none,none
+B078,10.1109/icvee59738.2023.10348332,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B079,10.1109/npsc57038.2022.10069334,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B080,10.1111/ejed.70919,Wiley,Ministry of Education,2025JZDZ093,FOREIGN,CN,CN,award,none
+B081,10.1016/j.infsof.2020.106272,Elsevier BV,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea x2; Ministry of Science and ICT
+B082,10.1080/13548506.2025.2594761,Informa UK Limited,Ministry of Education in Taiwan,114L9A00303,FOREIGN,TW,TW,name+award,NTU Children and Family Research Center (also drawn as A058)
+B083,10.1080/15548627.2024.2374692,Informa UK Limited,Ministry of Education,2022R1A6A1A03046247,FOREIGN,KR,KR,award,Seoul Natl Univ; NRF; KHIDI; Ministry of Health and Welfare
+B084,10.1109/ialp51396.2020.9310501,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B085,10.1016/j.semcdb.2017.07.029,Elsevier BV,Ministry of Education,NRF-NRFF-2011-04,FOREIGN,SG,SG,award,Mechanobiology Institute; NRF Fellowship; NRF CRP
+B086,10.1109/icai63388.2024.10851688,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B087,10.1002/ca.23272,Wiley,Ministry of Education,,UNCLEAR,,KR,cofunder,NRF Korea x2; Catholic Kwandong Univ
+B088,10.2135/cropsci2013.06.0403,Wiley,Ministry of Education,,UNCLEAR,,CN,cofunder,State Administration of Foreign Experts Affairs; Northwest A&F Univ
+B089,10.1109/newcas52662.2022.9841985,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B090,10.1109/icmla55696.2022.00110,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B091,10.1016/j.intmar.2019.06.002,SAGE Publications,Ministry of Education,17YJC630149,FOREIGN,CN,CN,award,NSFC x2; China Postdoctoral Science Foundation; RGC Hong Kong
+B092,10.1109/icftic68075.2025.11324778,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B093,10.1016/j.carbon.2012.04.047,Elsevier BV,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B094,10.1109/icmae56000.2022.9852500,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B095,10.1007/bf02521392,Wiley,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B096,10.1016/j.jbiotec.2019.08.009,Elsevier BV,Ministry of Education,NRF-2015R1D1A1A01060488,FOREIGN,KR,KR,award,Advanced Biomass R&D Center; Ministry of Science and ICT
+B097,10.1109/mapcon61407.2024.10923042,IEEE,Ministry of Education,,UNCLEAR,,UNCLEAR,none,none
+B098,10.1109/cvpr46437.2021.00835,IEEE,Ministry of Education,,UNCLEAR,,CN,cofunder,Beijing Institute of Technology
+B099,10.1016/j.imr.2017.02.001,Elsevier BV,Ministry of Education,NRF-2014R1A1A2054469,FOREIGN,KR,KR,award,none
+B100,10.1049/iet-pel.2014.0731,Institution of Engineering and Technology (IET),Ministry of Education,2013R1A1A2004829,FOREIGN,KR,KR,award,NRF Korea; Ministry of Science ICT and Future Planning
