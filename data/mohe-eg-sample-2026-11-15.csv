@@ -1,0 +1,200 @@
+funder_id,draw,n,doi,award_on_entry,cofunders_short,label,award_format_tier,raw_checked,note
+501100002385,1,1,10.1021/acsomega.6c06914,FRGS/1/2025/TK09/USM/02/4,,foreign:MY,yes,yes,created 2026-10-07; all authors Universiti Sains Malaysia
+501100002385,1,2,10.1080/23311908.2024.2326793,,Long-Term Research Grant Scheme; Universiti Kebangsaan Malaysia; Universiti Malaya,foreign:MY,no,no,also in draw 2 (counted once)
+501100002385,1,3,10.1109/icsc57768.2022.9993931,,,unclear,no,no,
+501100002385,1,4,10.1109/icspc68261.2025.11325791,,,unclear,no,no,
+501100002385,1,5,10.1016/j.matpr.2018.07.060,,,unclear,no,no,
+501100002385,1,6,10.1016/j.supflu.2019.104610,13/2013,Universiti Putra Malaysia,foreign:MY,no,no,
+501100002385,1,7,10.1142/s1793545821500152,R.J130000.7845.4L669,,foreign:MY,yes,no,Universiti Teknologi Malaysia vote code
+501100002385,1,8,10.1109/apace53143.2021.9760568,,,unclear,no,no,
+501100002385,1,9,10.1109/bts-i2c67944.2025.11399334,,,unclear,no,no,
+501100002385,1,10,10.1109/icalt55010.2022.00029,,,unclear,no,no,
+501100002385,1,11,10.1109/scored64708.2024.10872720,,Universiti Teknologi Malaysia,foreign:MY,no,no,
+501100002385,1,12,10.1109/iciet69664.2026.11561652,,Universiti Tenaga Nasional; Universitas Pertamina,foreign:MY,no,no,Malaysian and Indonesian co-funders
+501100002385,1,13,10.1109/iccr67387.2025.11292062,,,unclear,no,no,
+501100002385,1,14,10.1109/icraie59459.2023.10468159,,,unclear,no,no,
+501100002385,1,15,10.1016/j.molstruc.2024.138837,,,unclear,no,no,
+501100002385,1,16,10.1016/j.powtec.2018.10.043,,USM; MESTECC; MyBrain 15,foreign:MY,no,no,entry named Ministry of Education (MOE)
+501100002385,1,17,10.1109/icspc50992.2020.9305810,Q.J130000.3551.07G53; R.J130000.7351.4J347,,foreign:MY,yes,no,entry named MOHE; UTM vote codes
+501100002385,1,18,10.1016/j.jwpe.2020.101209,,University of York; Universiti Teknologi MARA; Kementerian Sains Teknologi dan Inovasi,foreign:MY,no,no,
+501100002385,1,19,10.1109/icsipa52582.2021.9576776,,,unclear,no,no,
+501100002385,1,20,10.1016/j.dib.2020.106182,66928,,unclear,no,no,
+501100002385,1,21,10.1016/j.renene.2017.10.025,,Scientific Research and Technology,unclear,no,no,co-funder name too generic
+501100002385,1,22,10.1111/wej.12412,,,unclear,no,no,
+501100002385,1,23,10.1080/14786419.2018.1475387,FRG0464-2017,Sabah Biodiversity Centre; Universiti Malaysia Sabah,foreign:MY,yes,no,Universiti Malaysia Sabah grant code
+501100002385,1,24,10.1371/journal.pone.0254784,FRGS 0457-2017,,foreign:MY,yes,no,
+501100002385,1,25,10.1111/are.14500,,,unclear,no,no,
+501100002385,1,26,10.1109/icaee53772.2022.9962108,,,unclear,no,no,
+501100002385,1,27,10.1016/j.ijleo.2024.172074,,Science and Technology Development Fund,EG,no,no,STDF (Egypt)
+501100002385,1,28,10.1109/access.2022.3213081,,,unclear,no,no,
+501100002385,1,29,10.1016/j.margeo.2026.107884,,,unclear,no,no,
+501100002385,1,30,10.1016/j.xfss.2022.10.002,,,unclear,no,no,
+501100002385,1,31,10.1109/ispa59904.2024.10536842,,,unclear,no,no,
+501100002385,1,32,10.1109/isap62502.2024.10846717,,Universiti Teknologi Malaysia,foreign:MY,no,no,
+501100002385,1,33,10.1016/j.microc.2024.111491,FRGS/1/2022/STG05/UITM/02/12,Ministry of Higher Education Malaysia; Universiti Sains Malaysia,foreign:MY,yes,no,
+501100002385,1,34,10.1016/j.bbagen.2018.02.004,1894/2015,,unclear,no,no,
+501100002385,1,35,10.1016/j.foodhyd.2020.105806,,Ministerio de Economia y Competitividad; European Regional Development Fund,unclear,no,no,Spanish co-funders only (Egypt funds study abroad)
+501100002385,1,36,10.1177/09596518221105667,,Scientific Research in Tunisia,foreign:TN,no,no,
+501100002385,1,37,10.1109/ecce-asia63110.2025.11111803,,,unclear,no,no,
+501100002385,1,38,10.1177/03080226251412755,MOE-114-TPRSK-1029-012Y1,ministry of education,foreign:TW,yes,no,ROC year 114 code (Taiwan Ministry of Education)
+501100002385,1,39,10.1109/isap57493.2023.10388647,,Universiti Teknologi Malaysia,foreign:MY,no,no,
+501100002385,1,40,10.1016/j.yrtph.2016.12.007,,Fundamental Research Grant Scheme,foreign:MY,no,no,
+501100002385,1,41,10.1016/j.applthermaleng.2023.121584,,JICA; Egypt-Japan University of Science and Technology,EG,no,no,
+501100002385,1,42,10.1109/ictp67998.2026.11485316,,,unclear,no,no,
+501100002385,1,43,10.1016/j.psychres.2018.12.068,1105825,National University of Malaysia; NHMRC; NARSAD; Alberta Children's Hospital Research Foundation; University of Calgary,foreign:MY,no,no,Malaysian plus Australian/US/Canadian co-funders
+501100002385,1,44,10.1016/j.jgeb.2025.100582,,Direktorat Riset Dan Pengabdian Kepada Masyarakat; Direktorat Jenderal Pendidikan Tinggi; National University of Singapore,foreign:ID,no,no,Indonesian higher-education directorates
+501100002385,1,45,10.1109/icspc63060.2024.10862730,,Management and Science University,foreign:MY,no,no,
+501100002385,1,46,10.1016/j.molstruc.2020.128922,,Ministry of Higher Education Malaysia; HEC Pakistan; Universiti Teknologi MARA,foreign:MY,no,no,
+501100002385,1,47,10.1144/petgeo2022-077,,,unclear,no,no,
+501100002385,1,48,10.1109/icsima55652.2022.9929189,,,unclear,no,no,
+501100002385,1,49,10.1016/j.eti.2020.101233,,Ministry of Higher Education Malaysia; Universiti Malaysia Pahang,foreign:MY,no,no,
+501100002385,1,50,10.1016/j.lwt.2016.01.060,,,unclear,no,no,
+501100002385,1,51,10.1109/dsn-w58399.2023.00040,,,unclear,no,no,
+501100002385,1,52,10.1002/asia.202401489,,Mahidol University; Center of Excellence for Innovation in Chemistry; IPST,foreign:TH,no,no,
+501100002385,1,53,10.1111/ijac.14503,R.J090301.7851.4J427,Universiti Teknologi Malaysia,foreign:MY,yes,no,UTM vote code
+501100002385,1,54,10.1016/j.ymssp.2018.09.023,FRGS/1/2016/TK03/HWUM/03/1,,foreign:MY,yes,no,
+501100002385,1,55,10.1109/access.2024.3416327,FRGS/1/2021/ICT02/MMU/02/4,,foreign:MY,yes,no,entry named Fundamental Research Grant Scheme of the Ministry of Higher Education
+501100002385,1,56,10.1109/i2cacis69435.2026.11600097,,Universiti Malaysia Pahang,foreign:MY,no,no,
+501100002385,1,57,10.1016/j.ceramint.2021.01.118,,Ministry of Higher Education Malaysia,foreign:MY,no,no,
+501100002385,1,58,10.1016/j.yjmcc.2009.08.023,,British Heart Foundation,unclear,no,no,
+501100002385,1,59,10.1016/j.bjm.2016.01.003,,Faculty of Science Zagazig University; EPICO,EG,no,no,entry named Ministry of Higher Education and Scientific Research Egypt
+501100002385,1,60,10.1016/j.eujim.2019.100957,,ICGEB,unclear,no,no,
+501100002385,1,61,10.1016/j.enconman.2021.114958,,Egypt-Japan University of Science and Technology,EG,no,no,
+501100002385,1,62,10.1109/ijcnn64981.2025.11229346,,,unclear,no,no,
+501100002385,1,63,10.1039/d4lf00351a,,Deutsche Forschungsgemeinschaft; DAAD Kairo,EG,no,no,
+501100002385,1,64,10.1002/asia.202401579,,Kasetsart University Research and Development Institute; University of Helsinki; Center of Excellence for Innovation in Chemistry; University of York,foreign:TH,no,no,
+501100002385,1,65,10.1016/j.vacuum.2015.12.022,,Universiti Teknologi Malaysia,foreign:MY,no,no,
+501100002385,1,66,10.1109/i2cacis61270.2024.10649881,,,unclear,no,no,
+501100002385,1,67,10.1109/sita60746.2023.10373758,,,unclear,no,no,two entries
+501100002385,1,68,10.1109/icac57685.2022.10025200,,,unclear,no,no,
+501100002385,1,69,10.1007/s11356-016-6349-2,0153AB-I09,University Internal Research Funding,unclear,no,no,code possibly Universiti Teknologi PETRONAS; left unclear
+501100002385,1,70,10.3390/chemosensors11020130,FRGS/1/2019/STG05/UMP/ 02/8; PGRS 2003114,Universiti Malaysia Pahang,foreign:MY,yes,no,
+501100002385,1,71,10.1109/scored60679.2023.10563872,,,unclear,no,no,
+501100002385,1,72,10.1109/iscaie54458.2022.9794470,,Universiti Kebangsaan Malaysia,foreign:MY,no,no,
+501100002385,1,73,10.1002/mawe.201700008,,Universiti Teknologi MARA,foreign:MY,no,no,
+501100002385,1,74,10.1109/med64031.2025.11073455,,,unclear,no,no,
+501100002385,1,75,10.1016/j.matpr.2021.05.451,,,unclear,no,no,
+501100002385,1,76,10.1109/iscid59865.2023.00038,,,unclear,no,no,
+501100002385,1,77,10.1016/j.foodchem.2016.05.050,,Universiti Putra Malaysia,foreign:MY,no,no,
+501100002385,1,78,10.1016/j.cscm.2024.e03712,,Egypt Ministry of Higher Education; Ministry of Higher Education Egypt; JICA,EG,no,no,
+501100002385,1,79,10.1109/iccce50029.2021.9467142,,,unclear,no,no,
+501100002385,1,80,10.1007/s11101-025-10211-9,FRGS/1/2020/STG02/TAYLOR/01/1,Taylor's University,foreign:MY,yes,no,
+501100002385,1,81,10.1016/j.plabm.2021.e00241,,,unclear,no,no,
+501100002385,1,82,10.1109/iccsce65566.2025.11182666,FRGS/1/2024/ICT02/UKM/02/1,,foreign:MY,yes,no,
+501100002385,1,83,10.1016/j.apor.2019.01.009,,Ministry of Higher Education Malaysia,foreign:MY,no,no,
+501100002385,1,84,10.1016/j.cie.2021.107300,,,EG,no,no,entry named Egypt Ministry of Higher Education
+501100002385,1,85,10.1109/rsm59033.2023.10327329,,,unclear,no,no,
+501100002385,1,86,10.1109/ivit55443.2022.10033366,,,unclear,no,no,
+501100002385,1,87,10.1016/j.livsci.2026.106031,,University of Bonn; Egypt MoHE Cultural Affairs and Missions Sector,EG,no,no,
+501100002385,1,88,10.1109/icoict58202.2023.10262711,,,unclear,no,no,
+501100002385,1,89,10.1109/tia.2016.2614954,,Special Research Fund of Ghent University,EG,no,no,entry named Egyptian Ministry of Higher Education
+501100002385,1,90,10.1016/j.cherd.2015.01.001,,KACST,foreign:SA,no,no,Saudi co-funder (Saudi Ministry of Higher Education existed until 2015)
+501100002385,1,91,10.1016/j.ijsrc.2015.11.001,FP028-2012A,University of Malaya,foreign:MY,yes,no,University of Malaya grant code
+501100002385,1,92,10.1155/2013/634863,RG169/12SUS; F0004-21001,Universiti Malaya; Taibah University,foreign:MY,yes,no,also a Saudi co-funder
+501100002385,1,93,10.3390/e22101104,203.PMEKANIK.6071391,USM,foreign:MY,yes,no,entry named MOHE; USM account code
+501100002385,1,94,10.1109/iccda64887.2024.10867296,,,unclear,no,no,
+501100002385,1,95,10.1093/infdis/jiad586,ANR-15-CE-17-0019-01,ANR; Fondation pour la Recherche Medicale; AP-HP; CEA,foreign:FR,yes,no,French ANR number on the entry
+501100002385,1,96,10.1016/j.biortech.2018.12.034,,Ministry of Higher Education Malaysia; Monash University Malaysia,foreign:MY,no,no,
+501100002385,1,97,10.1016/j.arabjc.2020.07.022,,Ministry of Higher Education Malaysia; Universiti Malaysia Sabah,foreign:MY,no,no,
+501100002385,1,98,10.1016/j.jtice.2018.07.034,FRGS/1/2015/SG06/UNIM/02/1,Ministry of Higher Education Malaysia,foreign:MY,yes,no,
+501100002385,1,99,10.1016/j.jclepro.2016.11.144,7301.4B145; 2546.15H25,Universiti Teknologi Malaysia; Pazmany Peter Catholic University; IGES,foreign:MY,yes,no,UTM vote codes
+501100002385,1,100,10.1039/c8nr02647e,,Australian Research Council; JSPS; Suzuken Memorial Foundation; King Abdulaziz University,unclear,no,no,the only entry asserted by crossref in the sample
+501100002385,2,1,10.1016/j.heliyon.2023.e14270,015MA0-134,Ministry of Higher Education Malaysia; Universiti Teknologi Petronas,foreign:MY,yes,no,
+501100002385,2,2,10.1016/j.jconrel.2017.04.015,,IIUM; European Research Council; Swedish Research Council,foreign:MY,no,no,
+501100002385,2,3,10.1016/j.jmrt.2025.12.212,FRGS/1/2026/STG07/UPM/02/4; 5540701,Malaysia Ministry of Higher Education; Universiti Putra Malaysia,foreign:MY,yes,no,two entries on this ID
+501100002385,2,4,10.1016/j.conbuildmat.2018.08.157,S/15/2018,,unclear,no,no,
+501100002385,2,5,10.1016/j.ecoenv.2017.07.020,,,unclear,no,no,
+501100002385,2,6,10.1007/s11694-024-02730-4,Ministry of Higher Education,,unclear,no,no,
+501100002385,2,8,10.1016/j.repbre.2025.08.002,,Forestry Corporation; Malaysia Ministry of Higher Education,foreign:MY,no,no,
+501100002385,2,9,10.1007/s00226-020-01258-2,,Universiti Malaysia Sabah,foreign:MY,no,no,
+501100002385,2,10,10.1109/icts67612.2025.11369516,,,unclear,no,no,
+501100002385,2,11,10.1021/acssuschemeng.8b00147,,DAAD,unclear,no,no,
+501100002385,2,12,10.1016/j.neurobiolaging.2013.09.032,,,unclear,no,no,
+501100002385,2,13,10.1016/j.ijepes.2019.105483,,British Council (Newton-Mosharafa); Hermes fund,EG,no,no,entry named Egyptian Government- ministry of higher education
+501100002385,2,14,10.1016/j.snb.2014.07.023,USIM/FRGS-FST-5-50311,,foreign:MY,yes,no,
+501100002385,2,15,10.23919/isap63122.2025.11361868,,,unclear,no,no,
+501100002385,2,16,10.1016/j.marpetgeo.2015.10.005,,,unclear,no,no,
+501100002385,2,17,10.1016/j.jssc.2015.10.005,,,unclear,no,no,
+501100002385,2,18,10.1186/s13071-021-04689-3,LRGS 2018-1.,,foreign:MY,yes,no,
+501100002385,2,19,10.1109/isriti68345.2025.11393342,,,unclear,no,no,
+501100002385,2,20,10.1109/icpadm49635.2021.9493983,,,unclear,no,no,
+501100002385,2,21,10.1007/s10639-022-10904-0,FRGS/1/2020/SSI0/UTM/02/11,,foreign:MY,yes,no,
+501100002385,2,22,10.1002/ejlt.201900082,FRGS/1/2018/WAB01/UCSI/02/1,,foreign:MY,yes,no,
+501100002385,2,23,10.1109/iciet56899.2023.10111345,,,unclear,no,no,
+501100002385,2,24,10.1016/j.cjche.2016.07.011,FP028-2012A,University of Malaya,foreign:MY,yes,no,
+501100002385,2,25,10.1016/j.csite.2021.101135,,JICA; E-JUST; Science and Technology Development Fund,EG,no,no,
+501100002385,2,26,10.1016/j.solidstatesciences.2015.12.016,FRGS/2/2014/SG06/UTM/01/1,,foreign:MY,yes,no,
+501100002385,2,27,10.1002/masy.70198,FRGS/1/2023/STG05/UMP/02/2,,foreign:MY,yes,no,
+501100002385,2,28,10.1109/iccce50029.2021.9467205,,,unclear,no,no,
+501100002385,2,29,10.1109/access.2023.3235833,FRGS/1/2019/ICT02/TAYLOR/02/1,,foreign:MY,yes,no,entry named Ministry of Higher Education (MOHE) under the Fundamental Research Grant Scheme
+501100002385,2,30,10.1016/j.sciaf.2025.e02872,,Morocco Ministry of Higher Education; National Center for Scientific and Technical Research,foreign:MA,no,no,
+501100002385,2,31,10.1109/icspc53359.2021.9689133,FRGS/1/2019/ICT02/MMU/02/15,,foreign:MY,yes,no,
+501100002385,2,32,10.1016/j.microc.2025.116064,,World Bank Group; University of Colombo; National Research Council of Sri Lanka,foreign:LK,no,no,
+501100002385,2,33,10.2166/aqua.2023.153,FRGS/1/2017/STG01/UPM/02/4),Universiti Putra Malaysia,foreign:MY,yes,no,
+501100002385,2,34,10.1109/mecon67253.2025.11276954,,,unclear,no,no,
+501100002385,2,35,10.1109/rfm56185.2022.10064987,,,unclear,no,no,
+501100002385,2,36,10.1109/aupec66173.2025.11219642,FRGS/1/2023/TK07/UTEM/4,,foreign:MY,yes,no,
+501100002385,2,37,10.1016/j.jenvman.2024.121269,,JICA; Ministry of Higher Education Malaysia; Tokyo Institute of Technology,foreign:MY,no,no,
+501100002385,2,38,10.1109/icocet63343.2024.10730485,LRGS/1/2020/UM/01/5/4 (9012-00010),,foreign:MY,yes,yes,entry named Ministry of Higher Education of Malaysia (MOHE); first author Universiti Malaysia Perlis
+501100002385,2,39,10.1109/rfit54256.2022.9882403,,,unclear,no,no,
+501100002385,2,40,10.1109/sennano64909.2025.11473140,FRGS/1/2022/TK08/UTAR/02/7,,foreign:MY,yes,no,
+501100002385,2,41,10.1016/j.freeradbiomed.2016.03.027,IP2011 049271,Foundation for Polish Science; European Regional Development Fund,foreign:PL,yes,no,Polish Iuventus Plus number
+501100002385,2,42,10.1109/i2cacis54679.2022.9815463,,,unclear,no,no,
+501100002385,2,43,10.1016/j.crad.2019.10.006,,,unclear,no,no,
+501100002385,2,44,10.1016/j.ultrasmedbio.2025.05.027,,UiTM; MoHE (no ID; FRGS/1/2023/SKK06/UITM/02/7); WSIiZ Rzeszow,foreign:MY,no,no,FRGS number on a second entry without ID
+501100002385,2,45,10.1021/acsami.7b05557,,Agence Nationale de la Recherche,unclear,no,no,French co-funder only
+501100002385,2,46,10.1109/icse62991.2024.10681375,,Universiti Malaya,foreign:MY,no,no,
+501100002385,2,47,10.1109/airosip58759.2023.10873993,,Universiti Sains Malaysia,foreign:MY,no,no,
+501100002385,2,48,10.1109/iccsce52189.2021.9530918,,UTeM,foreign:MY,no,no,
+501100002385,2,49,10.1080/14658011.2017.1418711,,,unclear,no,no,
+501100002385,2,50,10.1016/j.celrep.2018.06.035,,Ministry of Higher Education Malaysia; ERC; DFG; DAAD,foreign:MY,no,no,
+501100002385,2,51,10.1109/icicyta60173.2023.10428729,,,unclear,no,no,
+501100002385,2,52,10.1109/ijcnn60899.2024.10650106,,,unclear,no,no,
+501100002385,2,53,10.1109/cspa55076.2022.9781866,,Universiti Malaysia Pahang,foreign:MY,no,no,
+501100002385,2,54,10.1109/rfm67034.2025.11284500,FRGS/1/2023/TK07/UTM/02/15,Universiti Teknologi Malaysia,foreign:MY,yes,no,
+501100002385,2,55,10.1016/j.desal.2014.03.036,4L803,Long-term Research Grant Scheme; MyBrain15,foreign:MY,yes,no,UTM vote code
+501100002385,2,56,10.1016/j.ibiod.2016.04.006,FRGS/1/2013/STWNO3/UMT/03/7/59287,Geran Penyelidikan NIC NRGS-UMT,foreign:MY,yes,no,
+501100002385,2,57,10.1109/apace62360.2024.10877303,,UTeM,foreign:MY,no,no,
+501100002385,2,58,10.1109/twc.2024.3422399,,National Key R&D Program of China; NSFC; Jiangsu; Fundamental Research Funds for the Central Universities; Guangdong; NSTC Taiwan,foreign:TW,no,yes,entry named Higher Education SPROUT Project of the Ministry of Education Taiwan
+501100002385,2,59,10.1016/j.scitotenv.2018.06.058,5535711,Kurita Water and Environment Foundation,unclear,no,no,
+501100002385,2,60,10.1016/j.porgcoat.2014.12.012,,,foreign:MY,no,yes,entry named Ministry of Higher Education Malaysia (MOHE); created 2015-01-29
+501100002385,2,61,10.1109/iswta52208.2021.9587356,,,unclear,no,no,
+501100002385,2,62,10.1109/icoco56118.2022.10031805,,,unclear,no,no,
+501100002385,2,63,10.1109/micc66164.2025.11210904,FRGS/1/2023/ICT08/UTEM/03/01,UTeM,foreign:MY,yes,no,
+501100002385,2,64,10.1186/s12889-019-6520-z,FRGS/2/2014/SKK07/UKM/01/1,,foreign:MY,yes,no,
+501100002385,2,65,10.1111/jvp.12489,,,unclear,no,no,
+501100002385,2,66,10.1016/j.jsps.2016.04.019,,University of Malaya; IPPP; UMRG,foreign:MY,no,no,
+501100002385,2,67,10.1109/icpea60617.2024.10498605,,,unclear,no,no,
+501100002385,2,68,10.1016/j.enconman.2026.121951,,,unclear,no,no,
+501100002385,2,69,10.1109/icsima55652.2022.9928870,,,unclear,no,no,
+501100002385,2,70,10.1109/rfm56185.2022.10065247,,,unclear,no,no,
+501100002385,2,71,10.1186/s12917-016-0784-7,,Petplan Charitable Trust,unclear,no,no,
+501100002385,2,72,10.1016/j.tsep.2026.104493,,Egypt Ministry of Higher Education; E-JUST; University of Tokyo,EG,no,no,
+501100002385,2,73,10.1016/j.ecoleng.2016.10.044,GUP-2015-022,UKM,foreign:MY,yes,no,UKM grant code
+501100002385,2,74,10.1016/j.fitote.2020.104765,,,unclear,no,no,
+501100002385,2,75,10.1016/j.talanta.2020.121787,,TSRI; NRCT; Center of Excellence for Innovation in Chemistry; Prince of Songkla University,foreign:TH,no,no,
+501100002385,2,76,10.1080/10942912.2020.1716792,MOHE; grant no. 5524568,,unclear,no,no,two entries
+501100002385,2,77,10.1016/j.aej.2019.02.001,,,EG,no,no,entry named Egyptian Ministry of Higher Education
+501100002385,2,78,10.1016/j.comptc.2024.114807,,,unclear,no,no,
+501100002385,2,79,10.1016/j.crad.2020.07.026,,,unclear,no,no,
+501100002385,2,80,10.1016/j.polymer.2010.02.028,,MEXT,unclear,no,no,
+501100002385,2,81,10.1007/s10163-026-02524-4,FRGS/1/2023/WAB02/UPM/01/1,,foreign:MY,yes,no,
+501100002385,2,82,10.1016/j.istruc.2026.113167,,Malaysia Ministry of Higher Education,foreign:MY,no,no,
+501100002385,2,83,10.1109/iccce58854.2023.10246098,,,unclear,no,no,
+501100002385,2,84,10.1109/iros58592.2024.10801588,,EWE,unclear,no,no,
+501100002385,2,85,10.1109/ica65945.2025.11252297,,UKM,foreign:MY,no,no,
+501100002385,2,86,10.1093/ejo/cjaa032,,Scientific Research of Iraq,foreign:IQ,no,no,
+501100002385,2,87,10.1109/icbase66587.2025.11181437,,,unclear,no,no,
+501100002385,2,88,10.1002/pro.70482,,DFG,unclear,no,no,
+501100002385,2,89,10.1080/19476337.2024.2363923,,,unclear,no,no,
+501100002385,2,90,10.1109/i2cacis61270.2024.10649824,,,unclear,no,no,
+501100002385,2,91,10.1109/scored68498.2025.11399075,,,unclear,no,no,
+501100002385,2,92,10.1007/s13592-026-01319-8,,ANR Terra Forma; RT Pollineco; Ecole Normale Superieure; Universite de Montpellier,unclear,no,no,French co-funders only
+501100002385,2,93,10.1016/j.mssp.2017.05.030,,UM HIR Chancellery Grant; UM Postgraduate Research Fund; MARA University of Technology,foreign:MY,no,no,
+501100002385,2,94,10.1002/ski2.373,,,EG,no,no,entry named Ministry of Higher Education (Egypt) and British Council
+501100002385,2,95,10.1109/icocet63343.2024.10730571,FRGS /1/2021/STG07/UITM/02/4,,foreign:MY,yes,no,entry named Malaysian Ministry of Higher Education (MOHE)
+501100002385,2,96,10.1021/acsaem.3c00064,,JSPS; Murata Science Foundation,unclear,no,no,
+501100002385,2,97,10.1109/iccr67387.2025.11292548,,UKM,foreign:MY,no,no,
+501100002385,2,98,10.1109/imcom53663.2022.9721750,,,unclear,no,no,
+501100002385,2,99,10.1016/j.apcata.2019.117110,,Narodowe Centrum Nauki; Institute of Development and Economic Alternatives,unclear,no,no,Polish co-funder only
+501100002385,2,100,10.1109/esmarta56775.2022.9935396,,,unclear,no,no,
