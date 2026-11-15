@@ -10,7 +10,10 @@ import award_country_check as acc
 
 ZA_ID = "10.13039/501100001321"
 TH_ID = "10.13039/100009950"
+VN_ID = "10.13039/100007225"
+KR_MOST_ID = "10.13039/501100003711"
 NO_ZA = ("KR", "SG", "CN", "TW", "TH", "SK")
+MOST_FORMATS = ("KR", "SG", "CN", "TW", "TH", "SK", "VN", "IN")
 
 
 class TestCompactAndSplit(unittest.TestCase):
@@ -23,6 +26,8 @@ class TestCompactAndSplit(unittest.TestCase):
     def test_compact_drops_lead_words(self):
         self.assertEqual(acc.compact("Grant no. 84379"), "84379")
         self.assertEqual(acc.compact("No. 90341"), "90341")
+        self.assertEqual(acc.compact("Grant MOST 106-2221-E-156-005"),
+                         "MOST1062221E156005")
 
     def test_split_awards(self):
         self.assertEqual(acc.split_awards("116017, 119588"), ["116017", "119588"])
@@ -39,7 +44,8 @@ class TestClassifyAward(unittest.TestCase):
                   "2014K1A3A1A09063027", "2013M2A8A1040268", "2012-0001509",
                   "KRF-2009-0072538", "NRF-2010-6145", "NRF-2006-2004042",
                   "2020R1H1A110101311", "NRF‐2022M3C1A3081312",
-                  "RS-2020-NR049590", "RS-2023–00273372", "2018R1A 6A1A 030 15496"]:
+                  "RS-2020-NR049590", "RS-2023–00273372", "2018R1A 6A1A 030 15496",
+                  "2017M3A9E8023014"]:
             self.assertEqual(acc.classify_award(a), "KR", a)
 
     def test_singapore(self):
@@ -55,8 +61,29 @@ class TestClassifyAward(unittest.TestCase):
                   "17YJC630149", "#21JZD056", "2025JZDZ093", "24JDSZ3126"]:
             self.assertEqual(acc.classify_award(a), "CN", a)
 
+    def test_china_national_programmes(self):
+        for a in ["2016YFA0204100", "2025YFA0921202", "SQ2017YFC170594-07",
+                  "No. 2016YFA0400504", "2011CB707906", "2013CB933704",
+                  "2012AA101801", "2006AA02A319", "2015BAD09B010102",
+                  "2014BAI08B08", "2014ZX09507003006", "2017ZX07201002",
+                  "2012ZX09303008‐001", "2012FY120100", "2020SKA0110100",
+                  "2011YQ120023", "2008DFA30770", "S2012GR0290"]:
+            self.assertEqual(acc.classify_award(a), "CN", a)
+
     def test_taiwan(self):
         for a in ["107L9006", "114L9A00303", "113L9006", "107L4000"]:
+            self.assertEqual(acc.classify_award(a), "TW", a)
+
+    def test_taiwan_most_nsc_nstc(self):
+        for a in ["MOST 103-2221-E-006-093-MY3", "MOST 99-2320-B-002-017-MY3",
+                  "NSC102-2628-B-038-010-MY3", "NSC 99-2321-B-005-009-MY3",
+                  "109-2622-8-002-003", "110-2218-E-A49-014-MBK",
+                  "NSTC 112‐2314‐B‐075‐016 ‐", "104‐2320‐B‐075B‐003‐MY3",
+                  "MoST 103-2221-E-002-052", "Grant MOST 106-2221-E-156-005",
+                  "NSC: 105-2410-H-030-057", "MOST 105 – 2221 – E – 155 ‐ 031",
+                  "107–2745-B-039-001", "105-2622-E-224-010-CC3",
+                  "110-2622-8-A49-001-SB", "MOST 1092320B039041",
+                  "NSC94-2313-B-005-041"]:
             self.assertEqual(acc.classify_award(a), "TW", a)
 
     def test_thailand_and_slovakia(self):
@@ -74,7 +101,9 @@ class TestClassifyAward(unittest.TestCase):
         for a in ["2090155358", "N/A", "", "62171294", "A423100",
                   "2016RIDIA3B03934419", "JP20K12345", "2020AC006",
                   "SCU2021D005", "MOE 109-S-0023-A", "24-1317-A0001-0",
-                  "ZR202103040494", "2021B68", "2020CX041"]:
+                  "ZR202103040494", "2021B68", "2020CX041",
+                  "112-2314-B-002-30", "18490740600", "ECO2019-00419-001",
+                  "SKLLQGPY1603", "2Z04930"]:
             self.assertIsNone(acc.classify_award(a), a)
 
     def test_formats_limit_labels(self):
@@ -83,13 +112,39 @@ class TestClassifyAward(unittest.TestCase):
         self.assertIsNone(acc.classify_award("1001", NO_ZA))
         self.assertEqual(acc.classify_award("2019R1A2C1003456", NO_ZA), "KR")
         self.assertIsNone(acc.classify_award("2019R1A2C1003456", ("ZA",)))
+        self.assertIsNone(acc.classify_award("MOST 103-2221-E-006-093", ("CN",)))
 
     def test_parse_formats(self):
         self.assertEqual(acc.parse_formats("KR,sg, TW"), ("KR", "SG", "TW"))
+        self.assertEqual(acc.parse_formats("VN,in"), ("VN", "IN"))
         self.assertIsNone(acc.parse_formats(""))
         self.assertIsNone(acc.parse_formats(None))
         with self.assertRaises(ValueError):
             acc.parse_formats("KR,XX")
+
+    def test_all_formats(self):
+        self.assertEqual(acc.ALL_FORMATS,
+                         ("KR", "SG", "CN", "TW", "TH", "SK", "ZA", "VN", "IN"))
+
+
+class TestClassifyField(unittest.TestCase):
+    def test_vietnam(self):
+        for f in ["2372/QD-BKHCN", "ĐTCB.12/21/VNCHN", "ĐTĐL.CN-116/21",
+                  "KC01.05/11-15", "NĐT.101.TW/21", "KHXH-GĐ/16-19/10"]:
+            self.assertEqual(acc.classify_field(f), "VN", f)
+
+    def test_india(self):
+        for f in ["[BT/MED/122/SP24580/2018]", "BT/PR10903/MED/29/829/2014",
+                  "DST /TMD/ HFC /2k18/123", "CRG/2023/005571",
+                  "NRDMS/01/160/2016", "DST/TDT/SHRI-14/2018"]:
+            self.assertEqual(acc.classify_field(f), "IN", f)
+
+    def test_none_and_formats(self):
+        for f in ["2019R1A2C1003456", "VEGA 1/0802/20", "", None,
+                  "RUI/1001/PTEKIND8014119", "05.ITA/15", "GER/16"]:
+            self.assertIsNone(acc.classify_field(f), f)
+        self.assertIsNone(acc.classify_field("2372/QD-BKHCN", ("TW",)))
+        self.assertEqual(acc.classify_field("CRG/2023/005571", ("IN",)), "IN")
 
 
 class TestNamesAndEntries(unittest.TestCase):
@@ -109,6 +164,25 @@ class TestNamesAndEntries(unittest.TestCase):
         self.assertEqual(acc.classify_name("Ministry of Education, Thailand"), "TH")
         self.assertIsNone(acc.classify_name("Ministry of Education"))
 
+    def test_classify_name_science_ministries(self):
+        self.assertIsNone(acc.classify_name("Ministry of Science and Technology"))
+        self.assertIsNone(acc.classify_name("MOST"))
+        self.assertEqual(acc.classify_name(
+            "Socialist Republic of Vietnam Ministry of Science and Technology"), "VN")
+        self.assertEqual(acc.classify_name(
+            "Vietnamese Ministry of Science and Technology"), "VN")
+        self.assertEqual(acc.classify_name(
+            "Ministry of Science and Technology of R.O.C."), "TW")
+        self.assertEqual(acc.classify_name(
+            "Ministry of Science and Technology, Republic of China (Taiwan)"), "TW")
+        self.assertEqual(acc.classify_name(
+            "Ministry of Science and Technology of China"), "CN")
+        self.assertEqual(acc.classify_name(
+            "Ministry of Science and Technology, Korea"), "KR")
+        self.assertEqual(acc.classify_name(
+            "Department of Science and Technology, Government of India"), "IN")
+        self.assertIsNone(acc.classify_name("Indiana University"))
+
     def test_classify_entry_mixed(self):
         e = {"name": "National Research Foundation",
              "award": ["UID 116331", "2019R1A2C1003456"]}
@@ -122,11 +196,21 @@ class TestNamesAndEntries(unittest.TestCase):
         self.assertEqual(acc.classify_entry(e), {"SK", "ZA"})
         self.assertEqual(acc.classify_entry(e, NO_ZA), {"SK"})
 
+    def test_classify_entry_whole_field_not_split(self):
+        # Split on "/", "122" and "2018" would be read as South African.
+        e = {"name": "Ministry of Science and Technology",
+             "award": ["[BT/MED/122/SP24580/2018]"]}
+        self.assertEqual(acc.classify_entry(e), {"IN"})
+        e2 = {"name": "Ministry of Science and Technology",
+              "award": ["MOST 103-2221-E-006-093-MY3", "2372/QD-BKHCN"]}
+        self.assertEqual(acc.classify_entry(e2, MOST_FORMATS), {"TW", "VN"})
+
     def test_norm_funder(self):
         self.assertEqual(acc.norm_funder("501100001321"), ZA_ID)
         self.assertEqual(acc.norm_funder("https://doi.org/10.13039/501100001321"), ZA_ID)
         self.assertEqual(acc.norm_funder(ZA_ID), ZA_ID)
         self.assertEqual(acc.norm_funder("100009950"), TH_ID)
+        self.assertEqual(acc.norm_funder("100007225"), VN_ID)
 
 
 def work(doi, entries, publisher="P", created="2026-01-02T00:00:00Z"):
@@ -171,6 +255,32 @@ TH_KR_WORK = work("10.1/thkr", [
      "DOI": "10.13039/501100003725", "doi-asserted-by": "publisher"},
 ], publisher="IEEE", created="2025-02-18T18:17:22Z")
 
+# Shaped like 10.1002/sim.7652 (Wiley): Taiwan's MOST grants on Vietnam's ID.
+VN_TW_WORK = work("10.1/vntw", [
+    {"name": "Ministry of Science and Technology", "DOI": VN_ID,
+     "doi-asserted-by": "publisher",
+     "award": ["MOST 105-2118-M-006-007-MY2 and MOST 106-2118-M-006-011-MY3"]},
+    {"name": "Chinese University of Hong Kong", "DOI": "10.13039/501100004853",
+     "doi-asserted-by": "publisher"},
+], publisher="Wiley", created="2018-03-01T00:00:00Z")
+# Shaped like 10.1016/j.biortech.2026.134194 (Elsevier): a Chinese National
+# Key R&D grant on Vietnam's ID.
+VN_CN_WORK = work("10.1/vncn", [
+    {"name": "Ministry of Science and Technology", "DOI": VN_ID,
+     "doi-asserted-by": "publisher", "award": ["2025YFA0921202"]},
+], publisher="Elsevier BV", created="2026-02-12T00:28:49Z")
+VN_HOME_WORK = work("10.1/vnhome", [
+    {"name": "Ministry of Science and Technology", "DOI": VN_ID,
+     "doi-asserted-by": "publisher", "award": ["2372/QD-BKHCN"]},
+], publisher="Springer", created="2021-06-01T00:00:00Z")
+# Shaped like 10.1109/tia.2023.3281537 (IEEE): seven Taiwanese grants on the
+# Korean ministry ID (one entry per award).
+KR_TW_WORK = work("10.1/krtw", [
+    {"name": "Ministry of Science and Technology", "DOI": KR_MOST_ID,
+     "doi-asserted-by": "publisher", "award": [a]}
+    for a in ["110-2221-E-007-074", "110-3116-F-018-001", "110-2927-I-007-515"]
+], publisher="IEEE", created="2023-06-01T00:00:00Z")
+
 
 class TestClassifyWork(unittest.TestCase):
     def test_foreign_ignores_other_entries(self):
@@ -207,6 +317,16 @@ class TestClassifyWork(unittest.TestCase):
         # read as South African; leaving ZA out keeps it UNCLEAR.
         self.assertEqual(acc.classify_work(TH_MY_WORK, TH_ID, "TH")["foreign"], "ZA")
         self.assertEqual(acc.classify_work(TH_MY_WORK, TH_ID, "TH", NO_ZA)["verdict"], "UNCLEAR")
+
+    def test_science_ministry_cases(self):
+        r = acc.classify_work(VN_TW_WORK, VN_ID, "VN", MOST_FORMATS)
+        self.assertEqual((r["verdict"], r["foreign"], r["entries"]), ("FOREIGN", "TW", 1))
+        c = acc.classify_work(VN_CN_WORK, VN_ID, "VN", MOST_FORMATS)
+        self.assertEqual((c["verdict"], c["foreign"]), ("FOREIGN", "CN"))
+        h = acc.classify_work(VN_HOME_WORK, VN_ID, "VN", MOST_FORMATS)
+        self.assertEqual((h["verdict"], h["labels"]), ("HOME", "VN"))
+        k = acc.classify_work(KR_TW_WORK, KR_MOST_ID, "KR", MOST_FORMATS)
+        self.assertEqual((k["verdict"], k["foreign"], k["entries"]), ("FOREIGN", "TW", 3))
 
 
 def fake_fetch_factory(pages):
@@ -287,6 +407,15 @@ class TestScanAndSummary(unittest.TestCase):
         self.assertEqual(s["foreign_label"], {"CN": 1, "KR": 1})
         self.assertEqual(s["formats"], list(NO_ZA))
         self.assertEqual(s["foreign_by_year"], {"2022": 1, "2025": 1})
+
+    def test_main_vietnam(self):
+        s = self._run_main({"*": ([VN_TW_WORK, VN_CN_WORK, VN_HOME_WORK], None)},
+                           ["--funder", "100007225", "--home", "vn",
+                            "--formats", "KR,SG,CN,TW,TH,SK,VN,IN"], "100007225")
+        self.assertEqual(s["verdict"], {"FOREIGN": 2, "HOME": 1})
+        self.assertEqual(s["foreign_label"], {"CN": 1, "TW": 1})
+        self.assertEqual(s["foreign_by_publisher"], {"Elsevier BV": 1, "Wiley": 1})
+        self.assertEqual(s["formats"], list(MOST_FORMATS))
 
 
 if __name__ == "__main__":

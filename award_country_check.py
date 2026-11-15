@@ -8,8 +8,9 @@ every Crossref work that carries one Funder Registry ID.
 Examples: South Africa's National Research Foundation has the Funder
 Registry ID 10.13039/501100001321 and the bare name "National Research
 Foundation"; Thailand's Ministry of Education has 10.13039/100009950 and the
-bare name "Ministry of Education". Korean grants (2019R1A2C1003456,
-RS-2023-00281839) and Taiwanese, Chinese and Singaporean ones are often
+bare name "Ministry of Education"; Vietnam's Ministry of Science and
+Technology has 10.13039/100007225 and the bare name "Ministry of Science and
+Technology". Korean, Taiwanese, Chinese and Singaporean grants are often
 deposited under them.
 
 Standard library only.
@@ -18,6 +19,8 @@ Standard library only.
         --out-dir out --mailto you@example.org [--max-pages N]
     python award_country_check.py --funder 100009950 --home TH \
         --formats KR,SG,CN,TW,TH,SK --out-dir out
+    python award_country_check.py --funder 100007225 --home VN \
+        --formats KR,SG,CN,TW,TH,SK,VN,IN --out-dir out
 """
 import argparse
 import csv
@@ -28,7 +31,7 @@ import time
 import urllib.parse
 import urllib.request
 
-__version__ = "0.2.0"
+__version__ = "0.3.0"
 
 API = "https://api.crossref.org/works"
 FUNDER_PREFIX = "10.13039/"
@@ -57,15 +60,39 @@ _SG = [
 ]
 # China (Guangdong provincial science programmes, 2022A1515010159; Ministry
 # of Education humanities and social science projects, 21YJCZH147,
-# 21JZD056, 2025JZDZ093, 24JDSZ3126).
+# 21JZD056, 2025JZDZ093, 24JDSZ3126; Ministry of Science and Technology
+# national programmes: National Key R&D 2016YFA0204100, 973 2011CB707906,
+# 863 2012AA101801, Key Technologies 2015BAD09B010102, megaprojects
+# 2014ZX09507003006, basic work 2012FY120100, SKA 2020SKA0110100,
+# instruments 2011YQ120023, international cooperation 2008DFA30770,
+# S2012GR0290).
 _CN = [
     re.compile(r"^20\d{2}[AB]\d{10}$"),
     re.compile(r"^\d{2}YJ[ACE][A-Z0-9]*\d{3}$"),
     re.compile(r"^(\d{2}|20\d{2})JZD[A-Z]?\d{3}$"),
     re.compile(r"^\d{2}JDSZ\d{3,}$"),
+    re.compile(r"^(SQ)?20\d{2}YF[A-H]\d{5,}"),
+    re.compile(r"^20\d{2}CB\d{6}$"),
+    re.compile(r"^20\d{2}AA\d{2}[A-Z0-9]\d{3}$"),
+    re.compile(r"^20\d{2}BA[A-K]\d{2}B\d{2}"),
+    re.compile(r"^20\d{2}ZX\d{8,}"),
+    re.compile(r"^20\d{2}FY\d{6}$"),
+    re.compile(r"^20\d{2}SKA\d{7}$"),
+    re.compile(r"^20\d{2}YQ\d{6}$"),
+    re.compile(r"^20\d{2}DF[ABR]\d{5}$"),
+    re.compile(r"^S20\d{2}GR\d{4}$"),
 ]
-# Taiwan (Ministry of Education, ROC-year codes such as 107L9006, 114L9A00303).
-_TW = [re.compile(r"^\d{2,3}L\d[A-Z0-9]{3,}$")]
+# Taiwan (Ministry of Education, ROC-year codes such as 107L9006,
+# 114L9A00303; Ministry of Science and Technology / National Science
+# Council / National Science and Technology Council project numbers such as
+# MOST 103-2221-E-006-093-MY3, NSC 99-2320-B-002-017, 109-2622-8-002-003,
+# 110-2218-E-A49-014-MBK: ROC year, 4-digit programme code starting 2 or 3,
+# field letter, 3-4 character institution code, 3-digit serial).
+_TW = [
+    re.compile(r"^\d{2,3}L\d[A-Z0-9]{3,}$"),
+    re.compile(r"^(MOST|NSC|NSTC)?\d{2,3}[23]\d{3}[A-Z8][A-Z0-9]{3,4}\d{3}"
+               r"([A-Z]{1,3}\d?)?$"),
+]
 # Thailand (Thailand Research Fund grant codes, MRG6180091, IRG5980007).
 _TH = [re.compile(r"^(MRG|IRG|RSA|PHD|RTA|DBG|TRG|RDG|DPG)\d{7}$")]
 # Slovakia (VEGA, the Slovak Ministry of Education's grant agency).
@@ -83,8 +110,20 @@ _ZA = [
 # Singapore), South Africa's loose digits rule last.
 _FORMATS = (("KR", _KR), ("SG", _SG), ("CN", _CN), ("TW", _TW),
             ("TH", _TH), ("SK", _SK), ("ZA", _ZA))
-ALL_FORMATS = tuple(label for label, _ in _FORMATS)
 
+# Formats read from a whole award field before it is split on "/" and ",":
+# Vietnamese numbers (2372/QD-BKHCN, ĐTCB.12/21/VNCHN, KC01.05/11-15,
+# NĐT.101.TW/21; the letter Đ is used only in Vietnamese) and Indian DST,
+# DBT and SERB numbers (DST/TMD/HFC/2k18/123, BT/PR10903/MED/29/829/2014,
+# CRG/2023/005571). The field is upper-cased with spaces removed first.
+_VN = [re.compile(r"Đ|BKHCN|VNCHN|^KC\d{2}\.\d{2}/")]
+_IN = [re.compile(r"^(BT|DST|SERB|CRG|EMR|ECR|SRG|NRDMS)/")]
+_FIELD_FORMATS = (("VN", _VN), ("IN", _IN))
+
+ALL_FORMATS = (tuple(label for label, _ in _FORMATS)
+               + tuple(label for label, _ in _FIELD_FORMATS))
+
+# Country words matched anywhere in an entry name.
 _NAME_HINTS = [
     ("KR", ("KOREA",)),
     ("SG", ("SINGAPORE",)),
@@ -93,6 +132,12 @@ _NAME_HINTS = [
     ("TH", ("THAILAND",)),
     ("SK", ("SLOVAK",)),
     ("ZA", ("SOUTH AFRICA", "THUTHUKA", "SARCHI")),
+]
+# Country words matched only as whole words ("INDIA" must not match
+# "Indiana").
+_NAME_WORDS = [
+    ("VN", ("VIETNAM", "VIET NAM", "VIETNAMESE")),
+    ("IN", ("INDIA",)),
 ]
 
 
@@ -141,27 +186,54 @@ def classify_award(award, formats=None):
     return None
 
 
+def classify_field(text, formats=None):
+    """Return 'VN' or 'IN' for a whole award field in a Vietnamese or Indian
+    format, else None. formats limits which labels may be given."""
+    up = re.sub(r"\s", "", str(text or "").upper()).lstrip("[(")
+    if not up:
+        return None
+    for label, patterns in _FIELD_FORMATS:
+        if formats is not None and label not in formats:
+            continue
+        for pat in patterns:
+            if pat.search(up):
+                return label
+    return None
+
+
 def classify_name(name):
     """Country named in a funder-entry name, or None. 'Republic of China'
-    without 'People's' counts as Taiwan."""
+    without 'People's', and 'R.O.C.', count as Taiwan."""
     up = str(name or "").upper()
     if "REPUBLIC OF CHINA" in up and "PEOPLE" not in up:
+        return "TW"
+    if "R.O.C" in up and "P.R.O.C" not in up:
         return "TW"
     for label, words in _NAME_HINTS:
         for w in words:
             if w in up:
+                return label
+    padded = " " + re.sub(r"[^A-Z]+", " ", up) + " "
+    for label, words in _NAME_WORDS:
+        for w in words:
+            if " " + w + " " in padded:
                 return label
     return None
 
 
 def classify_entry(entry, formats=None):
     """Set of country labels for one Crossref funder entry, from its name
-    and every award number on it."""
+    and every award number on it. A field in a whole-field format
+    (Vietnamese, Indian) is not split further."""
     labels = set()
     n = classify_name(entry.get("name"))
     if n:
         labels.add(n)
     for field in entry.get("award") or []:
+        f = classify_field(field, formats)
+        if f:
+            labels.add(f)
+            continue
         for a in split_awards(field):
             c = classify_award(a, formats)
             if c:
