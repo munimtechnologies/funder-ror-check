@@ -1,0 +1,199 @@
+funder_id,draw,n,doi,award_on_entry,cofunders_short,label,award_format_tier,raw_checked,note
+100009122,1,1,10.1093/mnras/stag1028,MOE-111-YSFMS-0008-001-P1,NSTC (Taiwan); NASA; STFC; ERC,foreign:TW,yes,no,created 2026-06; entry named Ministry of Education; Taiwan MOE code
+100009122,1,2,10.1002/celc.202200093,2021R1I1A3052320,National Research Foundation of Korea,foreign:KR,yes,yes,entry named Ministry of Higher Education and Scientific Research (Wiley)
+100009122,1,3,10.1109/aeet66561.2025.11306999,CICCE202423,,unclear,no,no,
+100009122,1,4,10.1109/tii.2019.2898264,,Horizon 2020,unclear,no,no,
+100009122,1,5,10.1103/physrevb.111.155418,,,unclear,no,no,
+100009122,1,6,10.1016/j.crad.2020.05.004,,,unclear,no,no,entry named Ministry of Higher Education
+100009122,1,7,10.1093/plcell/koae095,,Youth and Sports of the Czech Republic (split entry); Czech Science Foundation; DFG,foreign:CZ,no,no,Czech ministry name split across two entries
+100009122,1,8,10.1109/fie49875.2021.9637062,"TIN2017-89238-R,PID2020-119620RB-I00",FEDER,foreign:ES,yes,no,Spanish AEI codes
+100009122,1,9,10.1016/j.compag.2018.11.015,,,unclear,no,no,entry named Government and Ministry of Higher Education and Scientific Research
+100009122,1,10,10.1002/elan.202060290,,,unclear,no,no,
+100009122,1,11,10.1109/access.2026.3678997,FRGS/1/2021/TK0/UKM/02/9,Universiti Kebangsaan Malaysia,foreign:MY,yes,yes,"created 2026-03-30; entry named Ministry of Higher Education (MOHE), Malaysia, through the Fundamental Research Grant Scheme"
+100009122,1,12,10.1109/icct56969.2023.10076157,,,unclear,no,no,
+100009122,1,13,10.1093/llc/fqag003,RS-2023-00241749,National Research Foundation of Korea; KAIST,foreign:KR,yes,yes,created 2026-01-15; entry named Ministry of Education
+100009122,1,14,10.1002/pc.25325,,EPSRC,unclear,no,no,
+100009122,1,15,10.1109/pedes61459.2024.10961701,SAP-2102-CSE(WRC,,unclear,no,no,
+100009122,1,16,10.1109/iccsic69301.2026.11521682,,,unclear,no,no,created 2026-05
+100009122,1,17,10.1080/07853890.2024.2428431,,Korean Association for the Study of the Liver; Basic Science Research Program 2020R1A6A1A03043026,foreign:KR,no,no,
+100009122,1,18,10.1103/3pnm-76hh,RS-2023-00301976,Samsung Science and Technology Foundation; NRF Korea; MSIT,foreign:KR,yes,no,
+100009122,1,19,10.1002/ejoc.202500004,RS-2023-00301938,NRF Korea; Pusan National University,foreign:KR,yes,no,
+100009122,1,20,10.1103/physreva.107.l051303,,National Research Foundation Singapore,foreign:SG,no,no,
+100009122,1,21,10.1016/j.polymertesting.2020.106813,,Kurdistan Regional Government-Iraq; University of Sulaimani,foreign:IQ,no,no,
+100009122,1,22,10.1093/nar/gkad523,MOE-T2EP30122-0005,A*STAR; National University of Singapore; French funders,foreign:SG,yes,no,
+100009122,1,23,10.1109/isorc61049.2024.10551346,,Ministry of Higher Education (Egypt's ID 501100002385),unclear,no,no,
+100009122,1,24,10.1109/cvpr52733.2024.00944,,,foreign:SG,no,yes,entry named Singapore Ministry of Education (MOE)
+100009122,1,25,10.1177/1473871619861786,,SONGES project,unclear,no,no,
+100009122,1,26,10.1109/itec63604.2025.11098029,,SRIC IIT Kharagpur,foreign:IN,no,no,"entry named Ministry of Education (MoE), Govt. of India"
+100009122,1,27,10.1093/jambio/lxad211,2019R1I1A1A01041799,National Research Foundation (South Africa's ID),foreign:KR,yes,no,also in draw 2 (counted once)
+100009122,1,28,10.1002/adsc.202200900,2022R1 A6 C101 A751,Samsung Science and Technology Foundation; NRF Korea,foreign:KR,yes,no,
+100009122,1,29,10.1002/ange.202319232,22-5025-A0001 | T2EP10222-0002,NSFC,foreign:SG,yes,no,
+100009122,1,30,10.1016/j.idairyj.2025.106444,PJE2023 D1P14,Enseignement Superieur et de la Recherche Scientifique (100012964),unclear,no,no,
+100009122,1,31,10.1364/ao.57.000005,,EPSRC,unclear,no,no,entry named ... (MOHESR)
+100009122,1,32,10.1016/j.sigpro.2016.03.021,4-13 A1,,unclear,no,no,
+100009122,1,33,10.1080/23802359.2026.2739024,RS-2024-00445180,NRF Korea LAMP; Korea Forest Service,foreign:KR,yes,no,created 2026-09
+100009122,1,34,10.1109/icca62237.2024.10927861,,,unclear,no,no,
+100009122,1,35,10.1177/17455057231170977,,IDRC; Scientific Research Fund,unclear,no,no,
+100009122,1,36,10.1093/ismeco/ycae163,RS-2023-00285390,Korea Polar Research Institute; NRF Korea,foreign:KR,yes,no,
+100009122,1,37,10.1093/jrs/feac016,NRF-2015H1A2A1034022,,foreign:KR,yes,no,
+100009122,1,38,10.1002/cbdv.201600118,,,unclear,no,no,
+100009122,1,39,10.1093/rheumatology/keaa493,FPU15/00002,Consejeria de Salud Junta de Andalucia,foreign:ES,yes,no,also in draw 2 (counted once); FPU = Spanish university teacher training fellowship
+100009122,1,40,10.1109/access.2025.3562299,FRGS/1/2023/ICT02/UIAM/02/6,MOSTI Malaysia,foreign:MY,yes,no,
+100009122,1,41,10.1002/anie.202001854,MOE 106N506CE1,Ministry of Science and Technology Taiwan,foreign:TW,no,no,
+100009122,1,42,10.1109/jsen.2025.3537016,,,foreign:DZ,no,no,entry named Ministry of Higher Education and Scientific Research of the Algerian Government
+100009122,1,43,10.3390/en17102293,1570604539,Khalifa University ENTC,AE,no,no,entry named UAE Ministry of Education
+100009122,1,44,10.1007/s13738-024-03110-x,B00L01UN400120210002 (PRFU),Spanish MICINN; Principado de Asturias,foreign:DZ,yes,yes,UAE ID asserted by Crossref; entry named ... MESRS
+100009122,1,45,10.1080/15568318.2026.2623149,RS-2024-00462359,,foreign:KR,yes,no,created 2026-02
+100009122,1,46,10.1128/mra.01240-25,RS-2023-00285390,MSIT Korea,foreign:KR,yes,no,
+100009122,1,47,10.1109/ickg52313.2021.00060,IRT_17R86,NSFC; National Key R&D Program of China,foreign:CN,yes,no,Changjiang innovative research team code
+100009122,1,48,10.1002/cbdv.202200823,NRF-2020R1A6A3A01100042,,foreign:KR,yes,no,
+100009122,1,49,10.1093/nar/gkad497,OPVVV/0000759,DFG; Wellcome; others,foreign:CZ,yes,no,Czech OP VVV code
+100009122,1,50,10.1016/j.psychres.2020.113467,,Ministry of Health,unclear,no,no,
+100009122,1,51,10.1093/nar/gkad1222,,ANR; INCa; Fondation ARC,unclear,no,no,
+100009122,1,52,10.1002/asia.202200131,,NSFC,foreign:CN,no,no,
+100009122,1,53,10.1016/j.yofte.2024.103757,,Iraq MoHESR (501100007335); University of Baghdad,foreign:IQ,no,no,carries both IDs
+100009122,1,54,10.1111/vop.13046,,NRF Korea,foreign:KR,no,no,
+100009122,1,55,10.1080/23802359.2025.2468748,,National University of Mongolia; Korea National Arboretum,unclear,no,no,
+100009122,1,56,10.1093/ehjimp/qyad029,,BHF; Wellcome; NIHR Oxford,unclear,no,no,
+100009122,1,57,10.1109/icipca65645.2025.11138633,231100116271915,,unclear,no,no,
+100009122,1,58,10.1093/femsle/fnag060,,DGRSDT (Algeria),foreign:DZ,no,no,created 2026-05
+100009122,1,59,10.1016/j.biomaterials.2012.10.048,2011SDD-10,Shanghai Municipal Education Commission; NSFC,foreign:CN,no,no,
+100009122,1,60,10.1016/j.apjtm.2017.09.008,,,foreign:TN,no,no,entry named Tunisian National Ministry of Higher Education and Scientific Research
+100009122,1,61,10.1093/g3journal/jkab215,,National Science Council (Taiwan); NYCU,foreign:TW,no,no,
+100009122,1,62,10.1093/toxsci/kfad055,2020R1A6A3A01099056,NRF Korea,foreign:KR,yes,no,
+100009122,1,63,10.1109/ispa67752.2025.00068,2024ZD007,NSFC; China Postdoctoral Science Foundation,foreign:CN,no,no,
+100009122,1,64,10.1109/jas.2023.123456,,NSFC; Shandong,foreign:CN,no,no,
+100009122,1,65,10.1080/08964289.2026.2695018,RS-2023-00237979,NRF Korea,foreign:KR,yes,no,created 2026-07
+100009122,1,66,10.1109/ibcast51254.2021.9393014,2018R1D1A1A02085645,NRF Korea,foreign:KR,yes,no,
+100009122,1,67,10.1109/wcnc61545.2025.10978703,B17007,Beijing Key Laboratory,foreign:CN,no,no,111 Project style code
+100009122,1,68,10.1080/12298093.2024.2439646,2017R1A6A1A03015876,NRF Korea,foreign:KR,yes,no,
+100009122,1,69,10.1093/aobpla/plaf069,,Czech Science Foundation; Charles University,unclear,no,no,Czech co-funders only (left unclear by the study-abroad rule)
+100009122,1,70,10.1016/j.wear.2004.09.024,,,unclear,no,no,
+100009122,1,71,10.1016/j.scriptamat.2011.05.004,NCET-05-0680,NSFC,foreign:CN,yes,no,NCET = China MoE New Century Excellent Talents
+100009122,1,72,10.1109/ted.2024.3520547,,,foreign:TN,no,no,entry named Tunisian Ministry of Higher Education and Scientific Research
+100009122,1,73,10.1093/ehjopen/oeae053,,University of Manchester; NIHR,unclear,no,no,
+100009122,1,74,10.1093/narcan/zcae022,18 gm0010005h0001,Takeda Science Foundation; Grant-in-Aid,foreign:JP,no,no,AMED style code
+100009122,1,75,10.1080/09298215.2026.2739211,NRF-2025S1A6B5A02004207,NRF Korea,foreign:KR,yes,no,created 2026-09
+100009122,1,76,10.1002/elan.202100078,2019R1 A6 C1010045,,foreign:KR,yes,no,
+100009122,1,77,10.1093/stcltm/szaf071,NRF-2022R1A2C1003624,,foreign:KR,yes,no,
+100009122,1,78,10.1093/ismeco/ycag215,,NSTC; Academia Sinica; National Taiwan University,foreign:TW,no,no,created 2026-07
+100009122,1,79,10.1093/hmg/ddag066,,ICMR; DBT (India); MoE-STARS,foreign:IN,no,no,created 2026-07
+100009122,1,80,10.1080/09687599.2026.2687579,NTU-115L9004,NSTC,foreign:TW,no,no,created 2026-06
+100009122,1,81,10.1016/j.ijbiomac.2024.135593,G00003563,,AE,no,no,same award as 10.1016/j.ultsonch.2024.107015 which names United Arab Emirates University
+100009122,1,82,10.1083/jcb.202509234,T2EP30121-0015,NRF Singapore; NMRC,foreign:SG,yes,no,
+100009122,1,83,10.1109/icaiic68212.2026.11454145,RS-2025-25398164,MSIT; KIAT,foreign:KR,yes,no,created 2026-03
+100009122,1,84,10.1109/access.2025.3646616,FRGS/1/2020/TK0/USM/02/30,Universiti Kuala Lumpur MSI,foreign:MY,yes,no,
+100009122,1,85,10.1016/j.indcrop.2015.09.037,,,unclear,no,no,
+100009122,1,86,10.1016/j.compind.2024.104225,,,AE,no,no,entry named United Arab Emirates Ministry of Higher Education and Scientific Research
+100009122,1,87,10.1093/bioinformatics/btad293,NRF-2021R1I1A2049607,KIMST; NRF Korea,foreign:KR,yes,no,
+100009122,1,88,10.1002/asia.202400684,STARS-2/2023-0186,SERB (India),foreign:IN,yes,no,India MoE STARS
+100009122,1,89,10.1109/ppps56198.2025.11248256,2023003660001,MSIT; KEITI,foreign:KR,no,yes,entry named Korea Ministry of Environment; created 2025-11-28
+100009122,1,90,10.1109/ipc65510.2025.11282011,"113M7014,113M7037,113M7056",NSTC Taiwan; National Taiwan University,foreign:TW,no,no,
+100009122,1,91,10.1093/bib/bbag560,,NSTC; Academia Sinica; NHRI,foreign:TW,no,no,created 2026-10
+100009122,1,92,10.1016/s0045-6535(03)00365-5,00028,NSFC,foreign:CN,no,no,
+100009122,1,93,10.1093/nar/gkag078,RS-2023-00274772,NRF Korea; NIH,foreign:KR,yes,no,created 2026-01
+100009122,1,94,10.1002/2211-5463.13407,LR11IP03,,foreign:TN,yes,no,Tunisian laboratory code
+100009122,1,95,10.1002/cptc.202000254,2020R1A6A3-A01099283,NRF Korea,foreign:KR,yes,no,
+100009122,1,96,10.1002/biot.201500559,No. 25248032,JSPS,foreign:JP,no,no,
+100009122,1,97,10.1093/bib/bbae460,,NSTC; Higher Education Sprout Project; NSFC; CUHK,foreign:TW,no,no,
+100009122,1,98,10.1016/j.measurement.2017.02.004,,IAMET,unclear,no,no,UAE ID asserted by Crossref; entry named MOHESR
+100009122,1,99,10.1002/slct.202102479,,NSFC; Shaanxi University of Science and Technology,foreign:CN,no,no,
+100009122,1,100,10.1002/asia.202100060,107QR001I5,MOST Taiwan; National Tsing Hua University,foreign:TW,no,no,
+100009122,2,1,10.1111/jnc.15687,,MOST Taiwan (3 awards),foreign:TW,no,no,
+100009122,2,2,10.1016/j.colsurfa.2025.136618,NRF-2022R1I1A1A01068693,KHIDI; King Saud University; NRF Korea; MOHW,foreign:KR,yes,no,
+100009122,2,3,10.1002/batt.202400338,RS-2023-00301938,KEPCO,foreign:KR,yes,no,
+100009122,2,4,10.1016/j.seppur.2018.11.055,,FP7; EPSRC,foreign:IQ,no,no,entry named Iraqi Ministry of Higher Education and Scientific Research
+100009122,2,5,10.1016/j.cbpc.2020.108706,002007007,Hainan University,foreign:CN,no,no,
+100009122,2,6,10.1109/access.2025.3650354,FRGS/1/2023/TK07/UITM/02/22,Universiti Teknologi MARA,foreign:MY,yes,no,created 2026-01
+100009122,2,7,10.1049/ipr2.12169,,,unclear,no,no,
+100009122,2,8,10.1109/icced51276.2020.9415828,R.J130000.7851.5F123,Universiti Teknologi Malaysia,foreign:MY,yes,no,UTM vote code
+100009122,2,9,10.1093/mnras/staf406,IFP22UQU4331237DSR236,,foreign:SA,yes,no,Saudi institutional funding programme code (UQU)
+100009122,2,10,10.1002/jsfa.11793,,European Social Fund; Gobierno de Aragon,unclear,no,no,
+100009122,2,11,10.1093/bib/bbag603,RS-2025-25441317,NRF Korea; MSIT,foreign:KR,yes,no,created 2026-11
+100009122,2,12,10.1093/nar/gkad1256,JP21H02847 | JP22K19599 to M.N. | JP21K15726 | JP21H05619 | JP22H05493,AMED; NIGMS,foreign:JP,yes,no,KAKENHI numbers
+100009122,2,13,10.1080/14786419.2017.1422182,F02220120052,Project Cnepru,foreign:DZ,no,no,CNEPRU = Algerian university research projects
+100009122,2,14,10.1109/map.2024.3389456,2021R1I1A1A01057159,MSIT; MOTIE,foreign:KR,yes,no,
+100009122,2,15,10.1016/j.ultsonch.2024.107015,G00003563,United Arab Emirates University,AE,no,no,
+100009122,2,16,10.1093/nar/gkaf032,,e-INFRA CZ; Wellcome; NIH,unclear,no,no,Western co-funders only (left unclear by the study-abroad rule)
+100009122,2,17,10.1093/bjsw/bcab034,,Ministry of Education in China; Youth Project of Humanities and Social Sciences,foreign:CN,no,no,entry named MOE
+100009122,2,18,10.1016/j.matlet.2016.09.069,12/2986,University of Malaya,foreign:MY,no,no,
+100009122,2,19,10.5194/acp-22-10099-2022,"Research program for rain enhancement science, OASIS program",ERC; Research Council of Finland,AE,no,no,UAE Research Program for Rain Enhancement Science
+100009122,2,20,10.1109/sibf60067.2023.10379957,,Bina Nusantara University,foreign:ID,no,no,
+100009122,2,21,10.1002/slct.202201305,,NSFC; Anhui University,foreign:CN,no,no,
+100009122,2,22,10.1103/physreva.104.042818,B00L02UN130120180004,,foreign:DZ,yes,no,Algerian PRFU code
+100009122,2,23,10.1002/asia.202100739,,NSFC,foreign:CN,no,no,
+100009122,2,24,10.1080/1828051x.2023.2187715,,Institutional Fund Projects IFPIP; King Abdulaziz University,foreign:SA,no,no,
+100009122,2,25,10.1016/j.dib.2020.105794,ENE/1/10/2015,Deanship of Scientific Research,unclear,no,no,
+100009122,2,26,10.1080/03610918.2022.2093904,20XJC910001,National Social Science Fund of China; NSFC,foreign:CN,yes,no,entry named Ministry of Education (MOE) Project of Humanities and Social Sciences on the West and the Border Area
+100009122,2,27,10.1093/nutrit/nuaf023,,CAPES; CNPq; MCTI (Brazil),foreign:BR,no,no,entry named Ministry of Education
+100009122,2,28,10.1080/02656736.2021.1986142,NRF-2018R1D1A1B07045088,Korea University Guro Hospital; NRF Korea,foreign:KR,yes,no,
+100009122,2,29,10.1080/15421406.2023.2176023,2018R1D1A1B07043527,NRF Korea; MOTIE,foreign:KR,yes,no,
+100009122,2,30,10.1109/ntic55069.2022.10100501,,,unclear,no,no,
+100009122,2,31,10.1080/02770903.2024.2366525,2021R1I1A3041301 | NRF-2022R1A5A2030454,,foreign:KR,yes,no,
+100009122,2,32,10.1109/ssd49366.2020.9364256,,,foreign:TN,no,no,entry named Higher Education and Scientific Research in Tunisia
+100009122,2,33,10.1093/rheumatology/keaa511,2018R1A2B2001054 | 2018R1D1A1B07047966,Ministry of Health & Welfare Republic of Korea,foreign:KR,yes,no,
+100009122,2,34,10.1109/icpr48806.2021.9412155,"MOE2018-T2-2-161,SRG ISTD 2017 129",A*STAR,foreign:SG,yes,no,entry named MOE Tier 2
+100009122,2,35,10.23919/metar.2025.000017,2024CUCPPR01,Natural Science Foundation of Yunnan Province,foreign:CN,no,no,created 2026-01
+100009122,2,36,10.1080/12298093.2023.2297485,2023R1A6C101B022,Korea National Arboretum; KBSI,foreign:KR,yes,no,
+100009122,2,37,10.1002/slct.202203840,,NSFC; Chongqing,foreign:CN,no,no,
+100009122,2,38,10.1109/tap.2020.3031410,SOPHIE/STIC & Ondes,ERDF,foreign:FR,no,no,"entry named Ministry of Higher Education and Research, Brittany and Rennes Metropole, through the CPER Project"
+100009122,2,39,10.1080/1040841x.2022.2052794,2019-T1-001-126,NTU; A*STAR,foreign:SG,yes,no,entry named Ministry of Education (MOE) Tier-1 grant
+100009122,2,40,10.1016/j.conbuildmat.2018.05.273,,CNPq (Brazil),unclear,no,no,
+100009122,2,41,10.1109/eecsi59885.2023.10295852,,,unclear,no,no,
+100009122,2,42,10.1002/batt.202000016,2017R1A6A3A04010902,,foreign:KR,yes,no,
+100009122,2,43,10.23919/ccc64809.2025.11179697,8091B03072304,NSFC; China Postdoctoral; Fundamental Research Funds for the Central Universities,foreign:CN,no,no,
+100009122,2,44,10.1021/acs.jpclett.6b02081,3312/2014 - 1252,Royal Society; Leverhulme; British Council; CONACYT,unclear,no,no,
+100009122,2,45,10.1093/lambio/ovae108,,DGRSDT,foreign:DZ,no,no,
+100009122,2,46,10.1109/globecom54140.2023.10437001,RG87/22,MSIT; NRF Singapore; IMDA,foreign:SG,no,no,entry named MOE
+100009122,2,47,10.1002/adsc.202001119,106 N506CE1,Ministry of Science and Technology (Taiwan code 107-3017-F-007-002),foreign:TW,no,no,
+100009122,2,48,10.1002/bkcs.12582,,Ministry of Environment (Korea); NRF Korea,foreign:KR,no,no,
+100009122,2,49,10.1155/2019/6470897,LR15CBS06_2015-2018,,foreign:TN,yes,no,Tunisian laboratory code
+100009122,2,50,10.1109/access.2025.3537619,FRGS/1/2021/TK0/UIAM/02/10,,foreign:MY,yes,no,
+100009122,2,51,10.1002/asia.202400102,,Australian Government; Ministry of Education India,foreign:IN,no,no,
+100009122,2,52,10.1109/smc54092.2024.10831110,,NSFC,foreign:CN,no,no,
+100009122,2,53,10.1002/adsc.202300756,2022R1A6A3A13065137,,foreign:KR,yes,no,
+100009122,2,54,10.1111/php.13927,MoE/STARS-1/293,SERB,foreign:IN,yes,no,
+100009122,2,55,10.1109/tcyb.2025.3644865,UMO-2021/01/2/ST6/00004 | ARTIQ/0004/2021,NSFC; Polish Ministry,foreign:PL,no,no,"entry named Program ""Excellence Initiative-Research University"" for the AGH University of Krakow as well as the ARTIQ Project"
+100009122,2,56,10.1109/icaige62696.2024.10776632,LR11ES48,,foreign:TN,yes,no,entry named Tunisian Ministry of Higher Education and Scientific Research
+100009122,2,57,10.1016/j.materresbull.2026.114215,,DGRSDT,foreign:DZ,no,no,created 2026-05
+100009122,2,58,10.1002/cplu.202100074,,NRF Korea,foreign:KR,no,no,
+100009122,2,59,10.1109/iwis54661.2021.9711764,57424451,,foreign:TN,no,no,entry named Ministry of Higher Education and Scientific Research of Tunisia
+100009122,2,60,10.1002/batt.202300073,,IIT Roorkee; MeitY; Universita del Sannio,foreign:IN,no,no,
+100009122,2,61,10.1002/celc.202400267,,,unclear,no,no,
+100009122,2,62,10.1128/aem.00286-26,"2020R1I1A1A01065541, RS-2023-00273372",,foreign:KR,yes,yes,created 2026-05-05; entry named Ministry of Education
+100009122,2,63,10.1016/0021-9797(88)90376-1,,FCAR (Quebec),unclear,no,no,
+100009122,2,64,10.1109/lwc.2016.2537819,,TELUS Canada,foreign:LY,no,no,"entry named Ministry of Higher Education and Scientific Research (MOHESR), Libya"
+100009122,2,65,10.1002/batt.202400354,2019R1A6C1010016,,foreign:KR,yes,no,
+100009122,2,66,10.1109/iceic54506.2022.9748153,NRF-2018R1A6A1A03025109,NRF Korea; MSIT,foreign:KR,yes,no,
+100009122,2,67,10.20965/jaciii.2022.p0619,17YJC630041,Zhejiang Province; National Office for Philosophy and Social Sciences,foreign:CN,yes,no,China MoE humanities and social sciences code
+100009122,2,68,10.1080/23802359.2023.2265177,NRF-2019R1I1A3A01060987,Jeonbuk National University; NRF Korea,foreign:KR,yes,no,
+100009122,2,69,10.1002/celc.202000630,2020R1A6A3A13052582,,foreign:KR,yes,no,
+100009122,2,70,10.1002/elan.202060110,NRF-2020R1A2B5B02001500 | 2018R1A6A1A03023788,,foreign:KR,yes,no,
+100009122,2,71,10.1016/j.renene.2020.07.150,,NSFC; Jiangsu; 111 Project,foreign:CN,no,no,
+100009122,2,72,10.1093/bjr/tqag074,NRF-2022R1C1C1005415,NRF Korea,foreign:KR,yes,no,created 2026-04
+100009122,2,73,10.1080/23802359.2023.2301014,2021R1A6A1A03039503,Soonchunhyang University,foreign:KR,yes,no,
+100009122,2,74,10.1002/mgg3.694,LR16IPT05,FP7,foreign:TN,yes,no,Tunisian laboratory code
+100009122,2,75,10.1016/j.tsep.2023.102049,,Prince Sattam bin Abdulaziz University; King Abdulaziz University,foreign:SA,no,no,
+100009122,2,76,10.1109/tap.2023.3325679,,ERDF; CNRS,foreign:FR,no,no,"entry named French Region of Brittany, Ministry of Higher Education and Research, Rennes Metropole and Conseil Departemental 35"
+100009122,2,77,10.1021/acs.jpcc.7b03539,,Austrian Science Fund,unclear,no,no,
+100009122,2,78,10.1002/mma.9942,,,unclear,no,no,
+100009122,2,79,10.1111/and.14047,,,unclear,no,no,
+100009122,2,80,10.1109/icct56141.2022.10073383,Scip202106,NSFC; Key Laboratory of System Control and Information Processing,foreign:CN,no,no,
+100009122,2,82,10.1080/12298093.2022.2116816,2019R1I1A1A01061954,NRF Korea,foreign:KR,yes,no,
+100009122,2,83,10.1109/icc52391.2025.11160822,T2EP50124-0032,NRF Singapore; IMDA; A*STAR,foreign:SG,yes,no,
+100009122,2,84,10.1016/j.ijheatfluidflow.2025.109904,,DGRSDT,foreign:DZ,no,no,
+100009122,2,85,10.1128/mbio.01181-25,2017R1D1A3B06035312,MSIT; NRF Korea; NIH,foreign:KR,yes,no,
+100009122,2,86,10.1093/nar/gkae937,CZ.02.01.01/00/22_008/0004575,Czech Science Foundation; CRUK,foreign:CZ,yes,no,
+100009122,2,87,10.1093/nar/gkaf1108,24K02016,JSPS; NHMRC; NSFC,foreign:JP,no,no,
+100009122,2,89,10.1080/10586458.2025.2484445,NRF-2020R1I1A1A01065877 | NRF-2019R1A6A1A11051177,NRF Korea,foreign:KR,yes,no,dashes may be en dashes in the record
+100009122,2,90,10.1093/humrep/deae006,,,unclear,no,no,
+100009122,2,91,10.1080/14767058.2022.2040475,2020R1I1A3067635,Basic Science Research Program NRF Korea,foreign:KR,yes,no,
+100009122,2,92,10.1016/j.micromeso.2021.111165,,Iraq MoHESR (501100007335),foreign:IQ,no,no,carries both IDs
+100009122,2,93,10.1109/access.2025.3541125,,,foreign:ID,no,no,entry named PMDSU scholarship/research grant Indonesian Ministry of Higher Education Science and Technology
+100009122,2,94,10.1109/wcsp68525.2025.1010425,JZNY202312,,unclear,no,no,created 2026-01; DOI as given in the sample listing (not re-read)
+100009122,2,95,10.1109/vlsitechnologyandcir65830.2026.11577438,"A-8001168-00-00,A-8002027-00-00",,foreign:SG,no,no,entry named MOE; NUS style codes; created 2026-07
+100009122,2,96,10.1016/j.jmmm.2011.10.002,NCET-05-0680,Hubei NSF; Hubei Education Department,foreign:CN,yes,no,
+100009122,2,97,10.1002/adsc.202000755,,NSFC,foreign:CN,no,no,
+100009122,2,98,10.1109/ccdc65474.2025.11091162,,NSFC; Fundamental Research Funds for the Central Universities,foreign:CN,no,no,
+100009122,2,99,10.1093/mnras/staf035,B20019 | 2022-3927,NSFC; China Postdoctoral; ERC; NSF; STFC,foreign:CN,no,no,
+100009122,2,100,10.1109/citsm56380.2022.9936036,FRGS/1/2019/ICT01/UIAM/03/2,,foreign:MY,yes,no,entry named Ministry of Education (MOE)
