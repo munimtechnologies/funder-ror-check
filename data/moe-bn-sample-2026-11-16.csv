@@ -1,0 +1,101 @@
+funder_id,draw,n,doi,award_on_entry,cofunders_short,label,award_format_tier,raw_checked,note
+501100004565,1,1,10.1002/chem.71295,2025-RISE-13-JBU,NRF (KR; RS-2025-23292974); Jeonbuk National University,foreign:KR,no,no,created 2026
+501100004565,1,2,10.1002/jper.70185,,NSTC (TW),foreign:TW,no,no,created 2026
+501100004565,1,3,10.1016/j.catcom.2022.106556,,Universiti Brunei Darussalam,BN,no,no,
+501100004565,1,4,10.1002/mnfr.70454,RS-2024-00459946,,foreign:KR,yes,no,created 2026
+501100004565,1,5,10.1002/admt.202501360,RS-2023-00285353,MSIT (KR),foreign:KR,yes,no,
+501100004565,1,6,10.1002/chem.71262,,,unclear,no,no,created 2026
+501100004565,1,7,10.1111/ppl.13481,,NRF (KR),foreign:KR,no,no,
+501100004565,1,8,10.1016/j.enbuild.2019.07.019,R296000181133,,foreign:SG,yes,yes,entry named Ministry of Education; NUS grant code format
+501100004565,1,9,10.1002/app.51439,2018JYBQGDKFB05,Wuhan Polytechnic University; Beijing Technology and Business University,foreign:CN,no,no,
+501100004565,1,10,10.1002/slct.202403308,4F876,,unclear,no,no,
+501100004565,1,11,10.1109/icoabcd63526.2024.10704553,,,foreign:ID,no,no,entry named Kementerian Pendidikan Kebudayaan Riset dan Teknologi Indonesia
+501100004565,1,12,10.1002/jssc.70465,2021R1A6A1A03044296,MFDS (KR),foreign:KR,yes,no,created 2026
+501100004565,1,13,10.1210/clinem/dgad711,2022R1I1A1A01053839; 2021R1A6A1A03038890,NIAMS; Cancer Council NSW,foreign:KR,yes,no,entry named Ministry of Education
+501100004565,1,14,10.1096/fj.201800695rr,2016R1D1A3B03933948,NRF (KR),foreign:KR,yes,no,
+501100004565,1,15,10.1093/femsle/fnac112,,Ministry of Science and Technology (country not given),unclear,no,no,entry named Ministry of Education
+501100004565,1,16,10.1111/1749-4877.12849,KLGE202204,NSFC,foreign:CN,no,no,
+501100004565,1,17,10.1007/s00521-022-07465-1,203/PKOMP/6740069,Universiti Sains Malaysia,foreign:MY,yes,no,
+501100004565,1,18,10.1016/j.chemosphere.2025.144598,,Universiti Brunei Darussalam,BN,no,no,entry named Ministry of Education Brunei Darussalam
+501100004565,1,19,10.1007/s13369-023-08064-5,FRGS/1/2018/STG02/UPM/02/5,Universiti Putra Malaysia,foreign:MY,yes,yes,Malaysian FRGS code
+501100004565,1,20,10.1002/anie.7158452,RS-2021-NR060128,NRF (KR); IITP (KR); NSF,foreign:KR,yes,no,created 2026
+501100004565,1,21,10.1016/j.jafr.2026.102834,1609/UN6.3.1/PT.00/2025,Cornell; Kemenristekdikti (ID),foreign:ID,no,no,created 2026
+501100004565,1,22,10.1111/mice.70149,CURI-G202304,NSFC,foreign:CN,no,no,
+501100004565,1,23,10.1111/inr.70028,NRF-2020R1I1A3068740,NRF (KR),foreign:KR,yes,no,
+501100004565,1,24,10.1002/adts.202200226,MOE-T2EP50220-0022,,foreign:SG,yes,no,Singapore MOE Tier 2 code
+501100004565,1,25,10.1016/j.hazadv.2026.101467,,KHIDI (KR); NRF (KR),foreign:KR,no,no,created 2026
+501100004565,1,26,10.1002/smll.202304822,NRF-2022R1A6A3A01085806,KETEP (KR); PolyU; NRF (KR),foreign:KR,yes,no,
+501100004565,1,27,10.1016/j.optcom.2025.132699,127/C3/DT.05.00/PL/2025; 028/LL6/PL/AL.04/2025,LPPM (ID),foreign:ID,yes,no,Indonesian ministry contract format
+501100004565,1,28,10.1111/1750-3841.71242,,,unclear,no,no,created 2026
+501100004565,1,29,10.1016/j.fob.2015.04.003,,Taipei Veterans General Hospital; NSC (TW),foreign:TW,no,no,entry named Ministry of Education
+501100004565,1,30,10.1002/adfm.202519092,RS-2024-00345266,NRF (KR),foreign:KR,yes,no,
+501100004565,1,31,10.1109/scored68498.2025.11399165,,,unclear,no,no,created 2026
+501100004565,1,32,10.1016/j.heliyon.2023.e13547,,Universiti Brunei Darussalam,BN,no,no,entry named Ministry of Education Brunei Darussalam
+501100004565,1,33,10.1007/s42452-020-2840-y,FRGS/1/2019/TK10/UTAR/02/5,UTAR (MY),foreign:MY,yes,no,
+501100004565,1,34,10.1111/ggi.14204,,NRF (KR; 2016R1D1A1B03930533),foreign:KR,no,no,
+501100004565,1,35,10.1002/smll.75828,CEPE2024021,National Key R&D Program; NSFC,foreign:CN,no,no,created 2026
+501100004565,1,36,10.1186/s12870-024-04825-y,,School of Digital Science,BN,no,no,entry named Ministry of Education Brunei Darussalam; added by Crossref
+501100004565,1,37,10.1002/admt.202301611,NRF-2021R1I1A3044394,NRF (KR),foreign:KR,yes,no,
+501100004565,1,38,10.1371/journal.pone.0351169,JPLL/A/4:A[2021]/J1 (123),,BN,no,no,created 2026; entry named Ministry of Education Brunei Darussalam; added by Crossref
+501100004565,1,39,10.1002/adfm.202406351,,NSFC; Jianghan University,foreign:CN,no,no,
+501100004565,1,40,10.1002/adfm.202523787,2018R1A6A1A03025708,MSIT (KR),foreign:KR,yes,yes,created 2026; authors at Kyung Hee University
+501100004565,1,41,10.1016/j.soilad.2025.100035,,,BN,no,no,entry named Ministry of Education Brunei Darussalam
+501100004565,1,42,10.3389/fenvs.2022.787207,2317/IT3.L1/PN/2021,,foreign:ID,yes,no,Institut Teknologi Bandung contract format
+501100004565,1,43,10.1002/smll.202305531,2021R1I1A1A01049967,NRF (KR); MSIT (KR),foreign:KR,yes,no,
+501100004565,1,44,10.1002/adma.202523670,RS-2020-NR049586,IBS (KR),foreign:KR,yes,no,created 2026
+501100004565,1,45,10.3382/ps/pew382,2015R1D1A1A02061577,BioGreen 21 (KR); MAFRA (KR),foreign:KR,yes,no,entry named Ministry of Education
+501100004565,1,46,10.1109/nana51271.2020.00014,2016Rl D1A3B01015510,NRF (KR),foreign:KR,yes,no,entry named Ministry of Education
+501100004565,1,47,10.1002/adma.202516989,,A*STAR (SG),foreign:SG,no,no,created 2026
+501100004565,1,48,10.1109/icic60109.2023.10381944,,Universitas Syiah Kuala (ID),foreign:ID,no,no,
+501100004565,1,49,10.1002/aenm.71545,,NRF (KR); MSIT; KBSI; KIGAM,foreign:KR,no,no,created 2026
+501100004565,1,50,10.1002/slct.74025,MoE-STARS/STARS-2/2023-0928,,foreign:IN,yes,no,created 2026; Indian STARS code
+501100004565,1,51,10.1109/icsgteis60500.2023.10424236,,,unclear,no,no,
+501100004565,1,52,10.1111/jmcb.70094,109L900201; 110L900201,NSFC; Taiwan MOST codes,foreign:TW,yes,no,created 2026; Taiwan MOE code format
+501100004565,1,53,10.1109/ic2ie67206.2025.11283362,,,unclear,no,no,
+501100004565,1,54,10.1109/cosite68330.2025.11414262,,,unclear,no,no,created 2026
+501100004565,1,55,10.1007/s10854-019-01059-9,TRGS Grant 203/Pbahan/6763001,Universiti Sains Malaysia,foreign:MY,yes,no,
+501100004565,1,56,10.1016/j.microc.2026.117323,,Brunei Research Council; Universiti Brunei Darussalam,BN,no,no,created 2026
+501100004565,1,57,10.1002/adom.202502177,Featured Areas Research Center Program within the Higher Education Sprout Project,NSTC (TW),foreign:TW,yes,no,Taiwan MOE programme name
+501100004565,1,58,10.1002/qre.3737,NRF-2021R1F1A1063212,NRF (KR),foreign:KR,yes,no,
+501100004565,1,59,10.1002/capr.12706,,LPDP (ID),foreign:ID,no,no,
+501100004565,1,60,10.1002/vms3.70262,,,unclear,no,no,
+501100004565,1,61,10.1016/j.ssaho.2025.101736,,Ditjen Dikti (ID); BRIN (ID),foreign:ID,no,no,
+501100004565,1,62,10.1049/cth2.70000,2020R1A6A1A03038540,,foreign:KR,yes,no,
+501100004565,1,63,10.1111/jace.20201,112L9006,National Taiwan University; Academia Sinica,foreign:TW,yes,no,Taiwan MOE code format
+501100004565,1,64,10.1002/app.50957,2017R1D1A3B03031732,MOTIE (KR); KIAT (KR); NRF (KR),foreign:KR,yes,no,
+501100004565,1,65,10.1002/ange.202522817,MOE-114-YSFMS-0009-001-P2,NSTC (TW),foreign:TW,yes,no,created 2026
+501100004565,1,66,10.3389/flupu.2024.1461739,NRF-2021R1A6A1A03038899,NRF (KR),foreign:KR,yes,no,entry named Ministry of Education
+501100004565,1,67,10.1021/cbe.3c00112,,Universiti Brunei Darussalam,BN,no,no,
+501100004565,1,68,10.1016/j.ijbiomac.2026.152138,,Universitas Udayana (ID),foreign:ID,no,no,created 2026
+501100004565,1,69,10.3389/fmicb.2016.01743,training scholarship,NHMRC,unclear,no,no,
+501100004565,1,70,10.1111/jvim.16184,2020R1A6A3A13077423,NRF (KR),foreign:KR,yes,no,entries named Ministry of Education and Kementerian Pendidikan
+501100004565,1,71,10.1002/aenm.202302998,,DFG; ERDF (CZ); MSMT (CZ); a Chinese MoE laboratory,unclear,no,no,
+501100004565,1,72,10.1016/j.radphyschem.2026.114355,112/C3/DT.05.00/PL/2025,Universitas Sumatera Utara (ID),foreign:ID,yes,no,created 2026
+501100004565,1,73,10.1002/app.48492,FRGS Grant 6071349,,foreign:MY,yes,no,entry named Ministry of Education
+501100004565,1,74,10.1007/s00339-017-1277-7,2110353-113-00,MOSTI (MY),foreign:MY,no,no,
+501100004565,1,75,10.1016/j.matpr.2020.01.252,FRGS/1/2016/STG07/UNIKL/02/1,MOHE (MY),foreign:MY,yes,no,
+501100004565,1,76,10.1016/j.heliyon.2024.e29528,,Universiti Brunei Darussalam,BN,no,no,entry named Ministry of Education Brunei Darussalam
+501100004565,1,77,10.1002/advs.78726,115L900803,MOST and NSTC (TW),foreign:TW,yes,no,created 2026
+501100004565,1,78,10.3390/ma12121918,Tier-1 Grant (H249),,foreign:SG,yes,no,Singapore AcRF Tier 1
+501100004565,1,79,10.1109/scored64708.2024.10872686,,LPDP (ID); Thailand's MoE ID (100009950),foreign:ID,no,no,
+501100004565,1,80,10.1002/adfm.202314683,,National University of Singapore,foreign:SG,no,no,
+501100004565,1,81,10.1016/j.tsf.2015.08.008,,Johnson Matthey; RCUK,BN,no,no,entry named Ministry of Education of Brunei
+501100004565,1,82,10.1109/icic64337.2024.10957440,,DRPM (ID),foreign:ID,no,no,
+501100004565,1,83,10.1002/zamm.202401219,FFG-No.872176,MinObrnauki (RU),foreign:AT,yes,no,Austrian FFG number
+501100004565,1,84,10.1080/09669760.2024.2368037,,LPDP (ID),foreign:ID,no,no,
+501100004565,1,85,10.1016/j.socimp.2024.100091,,,BN,no,no,entry named Ministry of Education Brunei Darussalam
+501100004565,1,86,10.1002/asia.202500047,,University of Delhi,foreign:IN,no,no,
+501100004565,1,87,10.1002/ajoc.202500285,2020R1A6A1A03038817,NRF (KR); MSIT (KR),foreign:KR,yes,no,
+501100004565,1,88,10.1002/jssc.70502,RS-2025-25397599,NRF (KR),foreign:KR,yes,no,created 2026
+501100004565,1,89,10.1002/adfm.202310178,2021R1A6A1A03043682,NRF (KR); MSIT (KR),foreign:KR,yes,no,
+501100004565,1,90,10.4491/eer.2024.484,,Indonesian ministry name split into fragments (no ID),foreign:ID,no,no,
+501100004565,1,91,10.1109/isemantic63362.2024.10761981,,,unclear,no,no,
+501100004565,1,92,10.1002/advs.77387,RS-2024-00411477,NRF (KR),foreign:KR,yes,no,created 2026
+501100004565,1,93,10.1002/adhm.202504598,2021R1I1A2059144,NRF (KR),foreign:KR,yes,no,created 2026
+501100004565,1,94,10.14202/vetworld.2019.377-381,FRGS/1/2017/ SKK15/UPM/02/2,,foreign:MY,yes,no,
+501100004565,1,95,10.1109/icramet60171.2023.10366593,,BP; Ministry of Finance,unclear,no,no,
+501100004565,1,96,10.1155/2024/5656744,,Universiti Brunei Darussalam,BN,no,no,
+501100004565,1,97,10.1016/j.nxmate.2026.103672,,Indonesian research directorates; UNNES,foreign:ID,no,no,created 2026
+501100004565,1,98,10.1002/adsu.202500189,2022R1A6C101A774,NRF (KR); MSIT (KR); Chungbuk National University,foreign:KR,yes,no,
+501100004565,1,99,10.1016/j.jenvman.2024.121889,,King Faisal University; PSAU; King Abdulaziz University,foreign:SA,no,no,
+501100004565,1,100,10.1049/gtd2.12342,2018AB07,NSFC,foreign:CN,no,no,

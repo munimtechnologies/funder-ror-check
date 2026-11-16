@@ -1,0 +1,101 @@
+funder_id,draw,n,doi,award_on_entry,cofunders_short,label,award_format_tier,raw_checked,note
+501100006667,1,1,10.1021/acs.inorgchem.7b02799,,DAAD; CONICET; ANPCyT (PICT 2012-2041); Universidad de Buenos Aires,AR,no,no,
+501100006667,1,2,10.1111/bre.12434,CGL2005-05337; BES-2006-12381,MICINN (CGL2009-11096); Universitat de Barcelona,foreign:ES,yes,no,Spanish Plan Nacional and FPI codes
+501100006667,1,3,10.1016/j.scitotenv.2022.156783,,CAPES; CNPq; Shenyang Pharmaceutical University,unclear,no,no,
+501100006667,1,4,10.1016/j.fitote.2025.106380,,INTA,AR,no,no,entry named Argentina Ministerio de Educacion y Deportes
+501100006667,1,5,10.1039/c7sc02756g,,MINECO (CTQ codes); University of Malaga; US NSF,foreign:ES,no,no,entry Ministerio de Educacion added by Crossref
+501100006667,1,6,10.1007/s10953-018-0807-z,Universidades Agregando Valor RESOL-2017-5157-APN-SECPU#ME,Universidad Nacional de Tucuman; CONICET,AR,no,no,
+501100006667,1,7,10.1111/jse.12816,AP2008-03528,MICINN; Junta de Castilla y Leon,foreign:ES,yes,no,Spanish FPU code
+501100006667,1,8,10.1186/s13567-018-0603-1,,MINECO (AGL2014-61204-JIN; RYC-2015-17154),foreign:ES,no,no,
+501100006667,1,9,10.1007/s11027-020-09930-5,SPU 36-88-506,CONICET,AR,no,no,
+501100006667,1,10,10.1007/s10661-022-10838-7,N843; N944,,AR,no,no,entry added by Crossref; N843 also appears with UNLP and ANPCyT (row 97)
+501100006667,1,11,10.1016/j.electacta.2022.141463,,CONICET,AR,no,no,entry named Argentina Ministry of Education and Sports
+501100006667,1,12,10.1016/j.lwt.2020.109674,,SECyT-UNC; CONICET,AR,no,no,
+501100006667,1,13,10.1016/j.adhoc.2021.102433,,Generalitat de Catalunya; JCCM; Spain's Ministerio de Educacion y Formacion Profesional (501100020636); MICINN; Comunidad de Madrid; ERDF,foreign:ES,no,no,Spain's own ministry record also on the work
+501100006667,1,14,10.1093/nar/gkaa315,,SNSF; ETH Zurich; ERC; MINECO; EU ERDF (BFU codes); EMBO,foreign:ES,no,no,
+501100006667,1,15,10.1016/j.jmaa.2013.10.080,MTM2010-19821; PHB2010-0109,Junta de Andalucia; Brazilian CNPq and CAPES,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,16,10.1016/j.meatsci.2012.11.017,,MICINN (AGL2007-65923-C02-01),foreign:ES,no,no,entry added by Crossref
+501100006667,1,17,10.1371/journal.pone.0180093,N712,ANPCyT (PICT-2012-1624),AR,no,no,
+501100006667,1,18,10.1016/j.jasrep.2021.103034,,Spain's MECD (501100003176); University of York; FONDECYT (CL),AR,no,no,entry named Argentina Ministerio de Educacion y Deportes
+501100006667,1,19,10.1016/j.newar.2018.02.001,2017R1D1A1B03035359,STFC; ERC; NSF; FAPESP; EC; MINECO; FONDECYT,foreign:KR,yes,no,entry named Ministry of Education; Korean NRF code
+501100006667,1,20,10.1016/j.mimet.2019.105759,142 - 2017,PRONABEC (PE),foreign:PE,no,no,
+501100006667,1,21,10.1093/jjco/hyw192,,DIKTI scholarship (ID),foreign:ID,no,no,entry named Ministry of National Education
+501100006667,1,22,10.1093/heapro/daaf147,,Galician Institute of Occupational Safety and Health,foreign:ES,no,no,entry named Collaboration Scholarship from the Ministry of Education and Vocational Training Spain
+501100006667,1,23,10.1080/16081625.2017.1370380,14YJC790097,NSFC; Guangdong NSF; Shaanxi,foreign:CN,yes,no,entry named Ministry of Education of Humanities and Social Science Youth Fund
+501100006667,1,24,10.1016/j.fsi.2018.09.022,FPU12/00265,MINEICO (AGL2017-84644-R); AEI; FEDER Spanish Government,foreign:ES,yes,yes,Spanish FPU code
+501100006667,1,25,10.1016/j.anaerobe.2011.12.003,,Ministerio de Ciencia Tecnologia y Telecomunicaciones (501100006473; CR),foreign:CR,no,no,
+501100006667,1,26,10.1021/acs.accounts.5b00507,,CONICET; ANPCyT; Ministerio de Salud de la Nacion; FONCyT; Fundacion Bunge y Born,AR,no,no,
+501100006667,1,27,10.1016/j.phrs.2012.04.006,,MICINN (SAF codes); Fundacion Ramon Areces; ISCIII; CIBERehd,foreign:ES,no,no,entry added by Crossref
+501100006667,1,28,10.1016/j.physletb.2019.01.021,,DAAD; FAPEMIG; CNPq; CAPES; DFG,unclear,no,no,
+501100006667,1,29,10.1016/j.jmaa.2013.08.019,MTM2010-19821,Junta de Andalucia,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,30,10.1016/j.neuroimage.2022.119343,,NIH; MICINN (FPU16/01525); Universitat Jaume I,foreign:ES,no,no,
+501100006667,1,31,10.1002/bkcs.10613,2015015683,,unclear,no,no,Korean journal
+501100006667,1,32,10.1016/j.iref.2016.04.011,ECO2011-28134 and ECO2014-59664-P,Junta de Castilla-La Mancha,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,33,10.1002/mana.201600082,,Cultura y Deporte (no ID; MTM codes),foreign:ES,no,no,Spain's Ministerio de Educacion Cultura y Deporte split at the comma; entry added by Crossref
+501100006667,1,34,10.1016/j.biortech.2016.05.103,,HR Training Program for Regional Innovation (KR); National Research Foundation (South Africa's ID),foreign:KR,no,no,entry named Ministry of Education
+501100006667,1,35,10.1017/s0953756201003379,,Universitat Rovira i Virgili; CICYT,foreign:ES,no,no,
+501100006667,1,36,10.1002/jpln.201300091,,MICINN (AGL2010-18048),foreign:ES,no,no,entry added by Crossref
+501100006667,1,37,10.1016/j.polymdegradstab.2016.05.020,PR2011-0222,EC; ISCIII; MinCyT (AR); ANPCyT (PICT 2012-1977),foreign:ES,no,no,Spanish mobility code on the entry; Argentine co-funders too
+501100006667,1,38,10.1016/j.ijepes.2018.12.009,ENE2016-80638-R,,foreign:ES,yes,yes,entry Ministerio de Educacion added by Crossref
+501100006667,1,39,10.1021/acs.iecr.6b02105,,Universidad Nacional del Litoral; CONICET; ANPCyT,AR,no,no,
+501100006667,1,40,10.1002/bkcs.11697,NRF-2018R1D1A1B07047022,,foreign:KR,yes,yes,entry named Ministry of Education
+501100006667,1,41,10.1080/13600869.2018.1533752,,,foreign:TR,no,no,entry named Republic of Turkey Ministry of National Education
+501100006667,1,42,10.1007/s10646-016-1737-4,AP2010-4951,FCT; MICINN; Junta de Andalucia,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,43,10.1016/j.expneurol.2012.11.023,SB2010-0067,ISCIII Spain; EU FP7,foreign:ES,no,no,entry added by Crossref
+501100006667,1,44,10.1073/pnas.1710820114,FPU fellowship,MINECO (CTQ2015-66223-C2-2-P),foreign:ES,yes,no,entry added by Crossref
+501100006667,1,45,10.7705/biomedica.7976,RC-FP44842-212- 2018,MinCiencias (CO),foreign:CO,no,no,created 2026
+501100006667,1,46,10.1002/1878-0261.12369,FPU13/03393,Junta de Andalucia; MICINN,foreign:ES,yes,no,
+501100006667,1,47,10.1007/s10725-021-00780-y,FPU17/00715,Spanish and Valencian funders; UPV,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,48,10.1002/chem.201400281,,Spain and Asturias governments (CTQ codes); FEDER; EU,foreign:ES,no,no,entry added by Crossref
+501100006667,1,49,10.1111/nph.15148,,ANR; NSF; Agropolis Fondation; COST,unclear,no,no,
+501100006667,1,50,10.1016/j.ic.2015.08.001,AP2010-2764,MINECO; NSFC,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,51,10.1016/j.jenvrad.2018.06.010,61/30.04.2013; PN-II-RU-TE-2011-3-0351; PN-III-P3-3.6-H2020-2016-0016,,foreign:RO,yes,no,entry named Ministry of National Education; Romanian PN codes
+501100006667,1,52,10.1016/j.scitotenv.2024.170237,PICT2016-0180,BSC; Ministerio de Ciencia y Tecnologia (501100006280); CONICET,AR,no,no,entry named Argentina Ministerio de Educacion Cultura Ciencia y Tecnologia
+501100006667,1,53,10.1016/j.jcs.2024.103900,,,AR,no,no,entry named Ministerio de Educacion de la Nacion Argentina
+501100006667,1,54,10.1002/ece3.6659,FPU15 01388; PID2019-104721GB-I00,FCT; ESF; Portuguese ministry; Vetenskapsradet,foreign:ES,yes,no,
+501100006667,1,55,10.1096/fj.09-131250,1M0506,DFG (SFB 487),foreign:CZ,no,no,Czech ministry research-centre code format
+501100006667,1,56,10.1016/j.biopha.2019.109601,,Generalitat de Catalunya; MINECO; ERDF,foreign:ES,no,no,
+501100006667,1,57,10.1080/14786419.2017.1289207,,Khon Kaen University; Center of Excellence for Innovation in Chemistry (TH),foreign:TH,no,no,entry named Office of the Higher Education Commission Ministry of Education
+501100006667,1,58,10.1016/j.jmaa.2013.10.002,MHE2011-00201,Generalitat Valenciana,foreign:ES,no,no,entry added by Crossref
+501100006667,1,59,10.1007/s13355-018-0544-1,N712,ANPCyT (PICT 2012-1624),AR,no,no,
+501100006667,1,60,10.1016/j.talanta.2018.07.050,FPU14/00166,FEDER; MINEICO; CDTI; MINECO,foreign:ES,yes,no,
+501100006667,1,61,10.1016/j.topol.2011.01.009,JC2010-0352,,foreign:ES,no,no,Spanish mobility code format
+501100006667,1,62,10.1016/j.clwas.2026.100491,,Universidad Nacional de Salta,AR,no,no,created 2026; entry named Argentina Ministerio de Educacion Cultura Ciencia y Tecnologia
+501100006667,1,63,10.1016/0304-8853(94)00825-6,AEQ-0851; MAT93-0322,,foreign:ES,yes,no,Spanish CICYT code
+501100006667,1,64,10.1080/21683565.2024.2417267,Universidades Agregando Valor,INTA; MinCyT Cordoba; UNC,AR,no,no,
+501100006667,1,65,10.1002/1878-0261.13454,,,unclear,no,no,
+501100006667,1,66,10.1016/j.tcs.2014.01.018,AP2010-2764,MICINN; NSFC,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,67,10.1111/jace.13191,PHB2009-0065-PC,CAPES; CNPq; FAPESP; Generalitat Valenciana; MICINN,foreign:ES,no,no,entry added by Crossref
+501100006667,1,68,10.1016/j.jinorgbio.2014.08.012,PICT 1344; PICT 2819,Max Planck Society; Humboldt Foundation,AR,no,no,entry names Argentina's agencies and ministries; added by Crossref
+501100006667,1,69,10.1080/14697688.2020.1733058,ECO2017-89715-P,,foreign:ES,yes,yes,entry named Ministerio de Educacion
+501100006667,1,70,10.1103/physreve.100.032223,,Moore Foundation; ANR; CONICET,AR,no,no,
+501100006667,1,71,10.1016/j.jcis.2018.02.058,,EU FP7; Spanish MINECO; FEDER (MAT2016-78257-R),foreign:ES,no,yes,entry named Ministerio de Educacion from the Spanish Government
+501100006667,1,72,10.1016/j.pbb.2019.172789,ME-FPU AP2010-3793,Plan Nacional de Drogas; Spanish ministry (PSI code); Universitat Jaume I,foreign:ES,yes,no,
+501100006667,1,73,10.1109/tgrs.2019.2929731,,Junta de Extremadura; MINECO; NSF; ESF,foreign:ES,no,no,entry added by Crossref
+501100006667,1,74,10.1016/j.apmt.2023.102030,,Spain MCIU; Junta de Andalucia,foreign:ES,no,no,
+501100006667,1,75,10.1002/jat.3788,,Mineduc Chile (501100002847),foreign:CL,no,no,Chile's own ministry record also on the work
+501100006667,1,76,10.1186/s12934-018-0895-x,,MINECO (BIO codes); EU H2020,foreign:ES,no,no,entry added by Crossref
+501100006667,1,77,10.1016/j.actpsy.2018.04.013,AP2010-1312,MICINN; Comunidad de Madrid,foreign:ES,yes,no,
+501100006667,1,78,10.1093/gerona/glaa013,,Cultura y Deporte Government of Spain (no ID; FPU014/05106); CIBER; FEDER,foreign:ES,no,no,Spain's ministry name split at the comma
+501100006667,1,79,10.1016/j.ultsonch.2020.105319,,Research Council of Norway; ESF,unclear,no,no,entry added by Crossref
+501100006667,1,80,10.3390/ijms22083836,FPU18/01319,ISCIII; Spanish cancer funders,foreign:ES,yes,no,
+501100006667,1,81,10.1002/chem.201501966,,MINECO; UAH; Comunidad de Madrid; ISCIII; ERDF,foreign:ES,no,no,entry added by Crossref
+501100006667,1,82,10.1111/pirs.12112,AP2008-03561,MICINN; Aragon government,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,83,10.1007/s40964-020-00122-w,,,unclear,no,no,
+501100006667,1,84,10.1002/pmic.200900182,SAF2005-03649,GAMBRO; CIBERehd; ISCIII Spain,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,85,10.1109/tgrs.2018.2860464,,NSFC; Hunan; China Scholarship Council; Junta de Extremadura; MINECO (TIN code),foreign:ES,no,no,entry added by Crossref
+501100006667,1,86,10.1016/j.jim.2014.11.011,,NHMRC,unclear,no,no,
+501100006667,1,87,10.1016/j.jas.2012.11.021,,Generalitat de Catalunya; MICINN,foreign:ES,no,no,
+501100006667,1,88,10.1007/s11750-019-00537-x,MTM2012-37048,Junta de Andalucia,foreign:ES,yes,no,entry added by Crossref
+501100006667,1,89,10.1016/j.meegid.2014.12.008,,MINECO; MICINN,foreign:ES,no,no,
+501100006667,1,90,10.1002/jccs.202100269,MOST 109-2113-M-009-008- etc.,,foreign:TW,yes,no,Taiwan MOST codes
+501100006667,1,91,10.1210/clinem/dgad240,KF202216; BJHPA-2022-JZHXZHQNYJ-LCH-04,NSFC; Key Lab of Myocardial Ischemia (CN),foreign:CN,no,no,entry named Ministry of Education
+501100006667,1,92,10.1016/j.jssc.2018.09.025,,DARPA; ONR; NSF,unclear,no,no,
+501100006667,1,93,10.1016/j.physletb.2011.11.061,,DGI; FEDER; CPAN; Generalitat Valenciana; HadronPhysics2,foreign:ES,no,no,entry added by Crossref
+501100006667,1,94,10.1021/acscatal.5b00086,,MINECO; FP7; ERDF,foreign:ES,no,no,entry added by Crossref
+501100006667,1,95,10.1160/th06-04-0216,SGR2005-00952,,foreign:ES,yes,no,Catalan SGR code; entry added by Crossref
+501100006667,1,96,10.1111/jnc.15118,,Comunidad de Madrid; ISCIII; Ecuador's SENESCYT ID carrying FPU14-00204,foreign:ES,no,no,
+501100006667,1,97,10.1016/j.scitotenv.2020.137836,,Universidad Nacional de La Plata; ANPCyT (PICT 2015-2778; N843),AR,no,no,
+501100006667,1,98,10.1016/j.neurobiolaging.2015.01.009,BES 2008-005929,MINECO; Galician government,foreign:ES,yes,no,Spanish FPI code; entry added by Crossref
+501100006667,1,99,10.1016/j.polymertesting.2015.11.007,,UEFISCDI (RO); ESF; DFG (POSDRU code),foreign:RO,no,no,
+501100006667,1,100,10.1021/acs.jpcc.5b08877,,EPSRC; MICINN; MINECO; ARC; Iraq's ministry (no ID),foreign:ES,no,no,entry added by Crossref
