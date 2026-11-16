@@ -1,0 +1,188 @@
+funder_id,draw,n,doi,award_on_entry,cofunders_short,label,award_format_tier,raw_checked,note
+501100007335,1,1,10.33687/phytopath.009.01.3066,UR13AGR09,,foreign:TN,yes,no,Tunisian research-unit code
+501100007335,1,2,10.1016/j.mtcomm.2026.116235,,Ministry of Education (KR); DGRSDT (DZ); King Saud University,foreign:DZ,no,no,created 2026; Algerian DGRSDT co-funder
+501100007335,1,3,10.1016/j.adt.2025.101731,,Lancaster University; DGRSDT (DZ); European Commission; FCT,foreign:DZ,no,no,Algerian DGRSDT co-funder
+501100007335,1,4,10.1016/j.compmedimag.2021.101893,,NSERC,unclear,no,no,
+501100007335,1,5,10.1016/j.ijbiomac.2025.144880,,TUBITAK; ERC; H2020; Tunisian MESRS (100012964); ANR; MUR; PRIMA; MIUR,foreign:TN,no,no,Tunisia's own ministry record also on the work
+501100007335,1,6,10.1016/j.cca.2018.11.003,,INSERM; CNRS; Angers Loire Metropole,unclear,no,no,
+501100007335,1,7,10.1016/j.jtumed.2019.01.003,,Ministry of Higher Education (no ID); Ministry of Higher Education of Kurdistan Region (no ID),IQ,no,no,Iraq ID deposited on an entry named University of Duhok
+501100007335,1,8,10.1016/j.jnoncrysol.2017.12.004,,,unclear,no,no,
+501100007335,1,9,10.2174/1570180816666190617160434,35116,Tehran University of Medical Sciences,IQ,no,no,entry named Ministry of Higher Education of Iraq
+501100007335,1,10,10.1016/j.firesaf.2018.12.002,,,unclear,no,no,
+501100007335,1,11,10.1016/j.optmat.2024.115822,,Tunisian MESRS (100012964),foreign:TN,no,no,
+501100007335,1,12,10.1155/2019/2528490,,,unclear,no,no,
+501100007335,1,13,10.1021/acsomega.4c00313,LR14ES08,,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,1,14,10.1016/j.radphyschem.2025.113324,,Lancaster University; DGRSDT (DZ); European Commission; FCT,foreign:DZ,no,no,
+501100007335,1,15,10.1002/jcc.25825,,,unclear,no,no,
+501100007335,1,16,10.1016/j.heliyon.2020.e03979,,University of Southern Queensland,unclear,no,no,
+501100007335,1,17,10.1016/j.eti.2016.05.002,,,unclear,no,no,
+501100007335,1,18,10.1016/j.poly.2021.115323,,University of Western Australia,unclear,no,no,also in draw 2
+501100007335,1,19,10.1080/23311916.2018.1477485,,,IQ,no,no,entry named the Ministry of Higher Education and Scientific Research Iraq
+501100007335,1,20,10.1063/1.4979181,,ARENA; Australian Research Council,unclear,no,no,
+501100007335,1,21,10.1021/acsomega.5c00921,NA,MICIU (ES); Universidad de Salamanca,unclear,no,no,
+501100007335,1,22,10.1016/j.meegid.2021.104838,,JSPS; MEXT,unclear,no,no,also in draw 2
+501100007335,1,23,10.1007/s00248-017-1106-8,,James S. McDonnell Foundation,unclear,no,no,
+501100007335,1,24,10.1016/j.heliyon.2024.e38898,,UET Lahore; Middle East University; University of Kufa,IQ,no,no,
+501100007335,1,25,10.1016/j.btre.2020.e00442,,TUBITAK; Tunisian MESRS (100012964; award 114O835),foreign:TN,no,no,also in draw 2
+501100007335,1,26,10.1080/08905436.2024.2345768,,,unclear,no,no,also in draw 2
+501100007335,1,27,10.1016/j.jmmm.2024.172690,,CNRST (MA),foreign:MA,no,no,also in draw 2
+501100007335,1,28,10.1021/acs.inorgchem.1c01110,,,unclear,no,no,
+501100007335,1,29,10.1016/j.ijheatmasstransfer.2013.09.039,,,unclear,no,no,also in draw 2
+501100007335,1,30,10.1364/optcon.539380,,University of Baghdad,IQ,no,no,
+501100007335,1,31,10.1016/j.inoche.2026.116392,,DGRSDT (DZ); Universite Ahmed Draia d'Adrar,foreign:DZ,no,no,created 2026
+501100007335,1,32,10.1016/j.envint.2019.03.012,,USQ postgraduate scholarship,unclear,no,no,
+501100007335,1,33,10.1109/icee49691.2020.9249786,,,unclear,no,no,
+501100007335,1,34,10.1109/ictis62692.2024.10894200,,,unclear,no,no,also in draw 2
+501100007335,1,35,10.1016/j.actbio.2017.08.035,,Libyan Ministry of Higher Education (no ID),foreign:LY,no,no,
+501100007335,1,36,10.1016/j.inoche.2025.115932,,DGRSDT (DZ); ATRST (DZ); Algerian MESRS (501100002717),foreign:DZ,no,no,
+501100007335,1,37,10.1016/j.eij.2025.100765,,Al-Muthanna University,IQ,no,no,
+501100007335,1,38,10.1016/j.ijimpeng.2019.04.017,,European Community; ANR (FR),foreign:FR,no,no,entry named Ministry of Higher Education and Research (France's ministry name)
+501100007335,1,39,10.3389/fpsyg.2022.874181,,,unclear,no,no,
+501100007335,1,40,10.1002/bio.4719,,,unclear,no,no,
+501100007335,1,41,10.1016/j.physb.2026.418392,,Algerian MESRS (501100002717); DGRSDT (DZ),foreign:DZ,no,no,created 2026
+501100007335,1,42,10.1016/j.scitotenv.2022.160702,,Newcastle University,unclear,no,no,
+501100007335,1,43,10.1016/j.clay.2016.08.007,LR01ES26,,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,1,44,10.1109/ictis62692.2024.10894418,,,unclear,no,no,
+501100007335,1,45,10.1155/2021/6639185,,University of Babylon,IQ,no,no,also in draw 2
+501100007335,1,46,10.1016/j.geodrs.2022.e00556,,,unclear,no,no,
+501100007335,1,47,10.1007/s10725-024-01132-2,,JSPS; Hiroshima University,unclear,no,no,
+501100007335,1,48,10.1128/mra.00767-20,,,unclear,no,no,
+501100007335,1,49,10.1016/j.surfin.2025.108382,,Algerian MESRS (501100002717),foreign:DZ,no,no,
+501100007335,1,50,10.1016/j.conbuildmat.2017.12.050,,Higher Committee for Education Development in Iraq,IQ,no,no,
+501100007335,1,51,10.1111/jac.12199,,,unclear,no,no,
+501100007335,1,52,10.1016/j.scp.2025.102034,,Spanish and Galician funders,unclear,no,no,
+501100007335,1,53,10.1016/j.phycom.2018.11.003,,,unclear,no,no,
+501100007335,1,54,10.1016/j.ces.2016.06.055,,Libya MoHESR (100010450); FP7,foreign:LY,no,yes,Libya's and Iraq's same-named records both on the work
+501100007335,1,55,10.1016/j.rechem.2025.102219,,National Research Foundation (ZA; award 120790),unclear,no,no,
+501100007335,1,56,10.1016/j.micromeso.2025.113603,,DGRSDT (DZ),foreign:DZ,no,no,
+501100007335,1,57,10.1016/j.rinma.2020.100164,,University of Sulaimani,IQ,no,no,also in draw 2
+501100007335,1,58,10.1021/acsinfecdis.9b00211,,STDF (EG); NAS; USAID,foreign:EG,no,no,
+501100007335,1,59,10.1039/d2tc00366j,,EPSRC; ERDF; ERC; BBSRC; Royal Society; Newcastle University; Mustansiriyah University,IQ,no,no,
+501100007335,1,60,10.1016/j.cplett.2020.137400,,,unclear,no,no,
+501100007335,1,61,10.1016/j.sasc.2024.200144,,NSERC; University of Thi-Qar,IQ,no,no,
+501100007335,1,62,10.1080/08916152.2020.1847215,,Universiti Malaya (award UM.C/HIR/MOHE/ENG/45),foreign:MY,no,no,Malaysian MOHE HIR grant on co-funder
+501100007335,1,63,10.1021/acs.jpca.9b05551,,SEIDI (ES); American University of Ras Al Khaimah,unclear,no,no,
+501100007335,1,64,10.1080/03079457.2025.2509602,,UM6P; CNRST (MA); OCP Foundation; IAV Hassan II,foreign:MA,no,no,also in draw 2
+501100007335,1,65,10.1016/j.ijhydene.2018.10.208,,IRD (FR),foreign:TN,no,yes,entry named Tunisian Ministry of Higher Education and Scientific Research
+501100007335,1,66,10.1016/j.patrec.2021.07.003,,BMBF (award 01D16009),unclear,no,no,
+501100007335,1,67,10.1016/j.tws.2019.03.034,,,unclear,no,no,
+501100007335,1,68,10.1016/j.patcog.2013.08.005,,Newcastle University; EPSRC,unclear,no,no,
+501100007335,1,69,10.1016/j.rio.2026.101056,,,IQ,no,no,created 2026; entry named Republic of Iraq Ministry of Higher Education and Scientific Research
+501100007335,1,70,10.1109/iraset68627.2026.11538562,,,unclear,no,no,created 2026
+501100007335,1,71,10.1016/j.jobe.2026.117548,,,unclear,no,no,created 2026
+501100007335,1,72,10.1016/j.ceramint.2025.03.235,,University of Basrah; Bahria University; Prince of Songkla University,IQ,no,no,
+501100007335,1,73,10.1016/j.ijbiomac.2021.12.033,SP1-078-TAN; SP2-008-TAN,Egypt MoHESR (100017057); NSFC,foreign:EG,no,no,Egypt's and Iraq's same-named records both on the work
+501100007335,1,74,10.1016/j.biortech.2018.06.009,,Libya MoHESR (100010450); Jiangsu S&T programme,foreign:LY,no,no,Libya's and Iraq's same-named records both on the work; also in draw 2
+501100007335,1,75,10.1016/j.optmat.2025.117108,,,unclear,no,no,
+501100007335,1,76,10.1016/j.neurobiolaging.2020.04.012,,University of Manchester,unclear,no,no,
+501100007335,1,77,10.1016/j.buildenv.2017.06.011,,,IQ,no,no,entry named Ministry of Higher Education and Scientific Research of Iraq
+501100007335,1,78,10.1016/j.inoche.2025.115483,,DGRSDT (DZ),foreign:DZ,no,no,
+501100007335,1,79,10.1016/j.inoche.2025.115327,,King Saud University; ATRST (DZ); DGRSDT (DZ),foreign:DZ,no,no,
+501100007335,1,80,10.1016/j.cnsns.2021.106063,,,unclear,no,no,
+501100007335,1,81,10.1016/j.molstruc.2018.06.041,,,unclear,no,no,
+501100007335,1,82,10.1016/j.ijbiomac.2018.05.202,,University of Liege,unclear,no,no,
+501100007335,1,83,10.1109/ic_aset53395.2022.9765833,,,unclear,no,no,
+501100007335,1,84,10.1016/j.rio.2026.101068,,,IQ,no,no,created 2026; entry named Republic of Iraq Ministry of Higher Education and Scientific Research
+501100007335,1,85,10.1021/acsomega.2c04480,,University of Zakho,IQ,no,no,entry named ... Kurdistan; Iraq ID added by Crossref (asserted-by crossref)
+501100007335,1,86,10.1016/j.trim.2016.08.008,,Tunisian Ministry of Public Health (no ID),foreign:TN,no,no,also in draw 2
+501100007335,1,87,10.1039/d4md00793j,,Irish Research Council,unclear,no,no,also in draw 2
+501100007335,1,88,10.1021/acsami.7b08092,,EPSRC,unclear,no,no,
+501100007335,1,89,10.1016/j.sajb.2016.09.009,,Tunisian Ministry of Agriculture (no ID),foreign:TN,no,no,
+501100007335,1,90,10.1016/j.ejmech.2019.06.051,,GERSS (German Egyptian Research Short-Term Scholarship); DAAD,foreign:EG,no,no,
+501100007335,1,91,10.1016/j.jsamd.2026.101229,,Seoul National University Boramae Medical Center; Ministry of Education (KR); DGRSDT (DZ); King Saud University,foreign:DZ,no,no,created 2026
+501100007335,1,92,10.1016/j.jece.2019.103520,,NSERC,unclear,no,no,
+501100007335,1,93,10.1021/acs.analchem.2c00536,,French regional funders; ANR; ERDF; CNRS,unclear,no,no,
+501100007335,1,94,10.1109/ict-dm62768.2024.10798958,,,unclear,no,no,
+501100007335,1,95,10.1016/j.ijnonlinmec.2018.08.015,,,unclear,no,no,
+501100007335,1,96,10.1016/j.jorganchem.2023.122890,,,unclear,no,no,
+501100007335,1,97,10.1016/j.jallcom.2018.07.192,,,unclear,no,no,
+501100007335,1,98,10.1016/j.biocontrol.2017.03.012,,Natural History Museum,unclear,no,no,
+501100007335,1,99,10.1016/j.jallcom.2026.187626,,University of Anbar,IQ,no,no,created 2026
+501100007335,1,100,10.1016/j.biteb.2021.100912,,Universiti Teknologi Malaysia,unclear,no,no,
+501100007335,2,1,10.1016/j.nanoso.2024.101281,,MCIU (ES),IQ,no,no,entry named Republic of Iraq Ministry of Higher Education and Scientific Research
+501100007335,2,2,10.1021/acs.jpca.0c09027,,,unclear,no,no,
+501100007335,2,3,10.1016/j.jallcom.2024.176909,,DGRSDT (DZ); DTU; Delhi Technological University,foreign:DZ,no,no,
+501100007335,2,4,10.1016/j.molstruc.2025.144830,,Algerian MESRS (501100002717; award BOOLO1UN090120200001); FCT; Aveiro and other Portuguese funders,foreign:DZ,no,no,
+501100007335,2,5,10.1016/j.biombioe.2020.105482,,,unclear,no,no,
+501100007335,2,6,10.1016/j.ijleo.2026.172859,,,IQ,no,no,created 2026; entry named Republic of Iraq Ministry of Higher Education and Scientific Research
+501100007335,2,7,10.1016/j.sajb.2023.08.063,N D01N01UN060120210001,,foreign:DZ,yes,no,Algerian PRFU project code
+501100007335,2,8,10.1016/j.fertnstert.2019.04.021,,,unclear,no,no,
+501100007335,2,9,10.1080/15320383.2023.2185469,,,unclear,no,no,
+501100007335,2,10,10.1080/11263504.2018.1461696,,,unclear,no,no,
+501100007335,2,11,10.1016/j.aquaculture.2023.739402,,Auburn University; USDA; Egyptian Cultural and Educational Bureau; NIFA,foreign:EG,no,no,
+501100007335,2,14,10.1021/acs.molpharmaceut.9b00737,,,unclear,no,no,
+501100007335,2,15,10.1016/j.clinbiochem.2019.01.002,1729,Texas A&M; Science and Technology Development Fund (EG),foreign:EG,no,no,
+501100007335,2,16,10.1016/j.chemer.2018.01.003,,JSPS; Nagoya University; University of Toyama,unclear,no,no,
+501100007335,2,17,10.1080/00288330.2024.2366026,,University of Monastir Tunisia (award LR 14ES06); High Institute of Biotechnology of Monastir Tunisia,foreign:TN,no,no,
+501100007335,2,18,10.1016/j.jmatprotec.2019.116366,,,unclear,no,no,
+501100007335,2,21,10.1016/j.jsv.2011.06.013,,,unclear,no,no,
+501100007335,2,22,10.1021/acs.langmuir.5c02746,,,unclear,no,no,
+501100007335,2,23,10.1016/j.compscitech.2017.07.028,,Universiti Tenaga Nasional,IQ,no,no,entry named Iraqi Ministry of Higher Education and Scientific Research
+501100007335,2,24,10.1016/j.molstruc.2026.146040,,Tunisian MESRS-TIC (501100004409); University of Tunis El Manar; Basque and Spanish funders; Edge Hill University; European Commission,foreign:TN,no,no,created 2026
+501100007335,2,26,10.1016/j.meatsci.2019.04.005,LRCBS05,,foreign:TN,yes,no,Tunisian laboratory code (Centre of Biotechnology of Sfax)
+501100007335,2,27,10.1016/j.dib.2022.108109,ICT/1/03/2021,,unclear,no,no,
+501100007335,2,28,10.1021/acs.jpcc.7b10977,,,unclear,no,no,
+501100007335,2,30,10.1016/j.sajb.2019.03.003,LR10CBBC02,Comite Mixte de Cooperation Universitaire,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,2,31,10.1021/acs.jmedchem.9b00519,,,IQ,no,no,entry named Ministry of Higher Education and Scientific Research-Kurdistan; Iraq ID added by Crossref
+501100007335,2,32,10.1021/acsomega.4c05941,MPH/1/26/2019,Deanship of Scientific Research University of Jordan,foreign:JO,no,no,
+501100007335,2,36,10.1016/j.compeleceng.2022.108081,,University of Southern Queensland,unclear,no,no,
+501100007335,2,37,10.1016/j.inoche.2023.111459,,,unclear,no,no,
+501100007335,2,38,10.1016/j.genrep.2024.102009,,Mustansiriyah University,IQ,no,no,
+501100007335,2,39,10.1016/j.jappgeo.2020.104145,,DGRSDT (DZ),foreign:DZ,no,no,entry named Ministry of Higher Education and Scientific Research of Algeria
+501100007335,2,40,10.1016/j.jid.2024.12.006,,Feinberg School of Medicine; LEO Fondet,unclear,no,no,
+501100007335,2,41,10.1016/j.saa.2026.128062,,King Saud University; University of Mostaganem; DGRSDT (DZ),foreign:DZ,no,no,created 2026
+501100007335,2,42,10.1109/nap51477.2020.9309639,,,unclear,no,no,
+501100007335,2,43,10.1016/j.inoche.2025.114402,,University of Kufa; Universiti Malaya,IQ,no,no,
+501100007335,2,44,10.1109/logistiqua61063.2024.10571527,,,unclear,no,no,
+501100007335,2,45,10.1002/dac.5727,PRF2019D4P3,Algerian MESRS (501100002717),foreign:DZ,no,no,
+501100007335,2,46,10.1103/physrevc.95.034619,,DFG; Academy of Finland; MINECO,unclear,no,no,
+501100007335,2,48,10.1016/j.commatsci.2026.114485,,DFG; DGRSDT (DZ); Algerian MESRS (501100002717),foreign:DZ,no,no,created 2026
+501100007335,2,49,10.1016/j.istruc.2024.105962,,,unclear,no,no,
+501100007335,2,50,10.1021/acsomega.2c04619,NA,,unclear,no,no,
+501100007335,2,51,10.1016/j.jhydrol.2022.128566,2018-12,H2020; BMBF; MIUR; GSRT; TUBITAK,unclear,no,no,
+501100007335,2,52,10.1016/j.scitotenv.2018.10.063,,University of Baghdad Iraq,IQ,no,no,
+501100007335,2,53,10.1080/0144929x.2016.1278561,16SV7111,,foreign:DE,yes,yes,entry named German Federal Ministry of Education and Research; authors at RWTH Aachen
+501100007335,2,54,10.1016/j.ijheatmasstransfer.2022.123101,,Brunel University London; EPSRC,unclear,no,no,
+501100007335,2,55,10.23919/pemwn67312.2025.11304017,,CHIST-ERA,unclear,no,no,
+501100007335,2,56,10.1016/j.chemosphere.2024.142051,,King Saud University (RSP2024R7; A16N01UN310220230001); DGRSDT (DZ),foreign:DZ,no,no,
+501100007335,2,57,10.1016/j.ygeno.2018.12.003,LR11ES31,European Union; AADMEN; PhosAgro,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,2,58,10.1021/acsomega.5c08417,,,unclear,no,no,created 2026
+501100007335,2,59,10.1080/00202967.2019.1551284,FRGS15-203-0444,,foreign:MY,yes,yes,entry named Ministry of Higher Education; Malaysian FRGS grant
+501100007335,2,60,10.1016/j.enmm.2023.100817,,,unclear,no,no,
+501100007335,2,61,10.1021/acsomega.3c03531,LR99ES15,,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,2,62,10.1016/j.engstruct.2018.07.052,,,unclear,no,no,
+501100007335,2,63,10.1016/j.foodhyd.2018.04.008,,,unclear,no,no,
+501100007335,2,64,10.1016/j.mtchem.2026.103539,,Government of Western Australia; Australian Research Council; University of Kufa,IQ,no,no,created 2026
+501100007335,2,65,10.1016/j.jssas.2022.03.002,,Tunisian MESRS (100012964); EPSRC,foreign:TN,no,no,
+501100007335,2,66,10.1021/acsami.3c15480,,Altria; DOE BES; VCU; US-Egypt Science and Technology Joint Fund,foreign:EG,no,no,
+501100007335,2,67,10.1016/j.eti.2019.100347,,Ministry of Higher Education Malaysia (501100003093); UKM,unclear,no,no,
+501100007335,2,68,10.1016/j.epsr.2025.111711,,,unclear,no,no,
+501100007335,2,69,10.1016/j.engstruct.2020.110626,,,unclear,no,no,
+501100007335,2,72,10.1364/ome.465414,,University of Baghdad,IQ,no,no,
+501100007335,2,73,10.1016/j.algal.2017.09.005,LR11ES24,Thermo Fisher Scientific,foreign:TN,yes,no,Tunisian laboratory code
+501100007335,2,74,10.1016/j.procbio.2025.03.017,,Universite de Bejaia; AEI (ES); MICINN,foreign:DZ,no,no,
+501100007335,2,75,10.1016/j.radphyschem.2025.113397,,,unclear,no,no,
+501100007335,2,76,10.1021/acsomega.3c03772,LR14ES08,,foreign:TN,yes,yes,first author at University of Sfax
+501100007335,2,77,10.1007/s11837-017-2408-5,,EPSRC,unclear,no,no,
+501100007335,2,78,10.1021/acsomega.4c03045,,American Chemical Society,unclear,no,no,
+501100007335,2,79,10.1109/isorc61049.2024.10551367,,,unclear,no,no,
+501100007335,2,80,10.1002/ecs2.2388,,Griffith University,unclear,no,no,
+501100007335,2,81,10.1016/j.heliyon.2023.e20310,,,unclear,no,no,
+501100007335,2,82,10.1021/acs.joc.9b01469,,ANR (FR),unclear,no,no,
+501100007335,2,83,10.1080/00305316.2023.2187892,D01N01UN230120190005,National Fund for Scientific Research of Algeria (no ID),foreign:DZ,yes,yes,entry named Ministry of Higher Education and Scientific Research of Algeria; Algerian PRFU code
+501100007335,2,84,10.1016/j.bcp.2019.113734,,ANR; HEC Pakistan; Alabama Commission on Higher Education; Libya MoHESR (100010450),foreign:LY,no,no,Libya's and Iraq's same-named records both on the work
+501100007335,2,86,10.1002/cphc.202500553,,,unclear,no,no,
+501100007335,2,87,10.1016/j.jmb.2025.169231,,BBSRC; Alzheimer's Research UK,unclear,no,no,
+501100007335,2,88,10.1021/acsomega.0c00295,1026,,unclear,no,no,
+501100007335,2,89,10.1016/j.matpr.2020.12.290,,,unclear,no,no,
+501100007335,2,90,10.1021/acs.jpca.8b01659,,,unclear,no,no,
+501100007335,2,91,10.1016/j.compstruct.2019.111083,,EPSRC,unclear,no,no,
+501100007335,2,92,10.1016/j.nanoso.2026.101725,,,IQ,no,no,created 2026; entry named Republic of Iraq Ministry of Higher Education and Scientific Research
+501100007335,2,93,10.1109/giis50753.2020.9248492,,,unclear,no,no,
+501100007335,2,94,10.1016/j.cogsc.2021.100512,,Tunisian MESRS-TIC (501100004409; award LR15INRAP02); Tunisian MESRS (100012964),foreign:TN,no,no,
+501100007335,2,95,10.1016/j.ijbiomac.2018.12.260,18PJEC12-08,,foreign:TN,no,no,format of a Tunisian young-researcher project code (not resolved)
+501100007335,2,96,10.1016/j.clnu.2019.03.006,,,unclear,no,no,
+501100007335,2,97,10.1016/j.prostr.2024.09.377,,,unclear,no,no,
+501100007335,2,98,10.14202/vetworld.2025.8-14,25654,,unclear,no,no,
+501100007335,2,99,10.1364/josaa.36.000320,,Irish funders; NSFC; Chinese central-university funds,unclear,no,no,
+501100007335,2,100,10.1016/j.foodchem.2025.147134,,Tunisian MESRS (100012964); PRIMA; TUBITAK; H2020; ANR; MUR,foreign:TN,no,no,
